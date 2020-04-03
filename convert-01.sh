@@ -5,6 +5,10 @@ set -o pipefail
 
 trap 'echo ERROR; sleep 30' ERR
 
+#Everything looks good from the last conversion. Set this script to be a NOOP to prevent clobbering stuff.
+
+exit 0
+
 cd "$(dirname "$0")"
 BASE="$(pwd)"
 
