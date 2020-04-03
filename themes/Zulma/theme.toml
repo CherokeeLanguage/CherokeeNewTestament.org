@@ -1,0 +1,17 @@
+name = "Zulma"
+description = "A zola theme based off bulma.css"
+license = "MIT"
+min_version = "0.6.0"
+demo = "https://festive-morse-47d46c.netlify.com/"
+homepage = "https://github.com/Worble/Zulma"
+
+[extra]
+zulma_themes = ["default", "darkly", "flatly", "pulse", "simplex", "lux", "slate", "solar", "superhero"]
+
+[author]
+name = "Worble"
+
+[original]
+author =  "dansup"
+homepage = "https://github.com/dansup"
+repo = "https://github.com/dansup/bulma-templates"

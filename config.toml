@@ -1,15 +1,19 @@
-# The URL the site will be built for
 base_url = "https://cherokeenewtestament.org"
-
-# Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
-
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
-
-# Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+taxonomies = [
+    {name = "categories", paginate_by = 8, rss = true},
+    {name = "tags", paginate_by = 8, rss = true},
+    {name = "authors", paginate_by = 8, rss = true}
+]
+
+theme = "Zulma"
+
 [extra]
-# Put all your custom variables here
+
+zulma_title = "Cherokee New Testament"
+zulma_brand = {text="Cherokee New Testament"}
+zulma_theme = "superhero"
+zulma_allow_theme_selection = true

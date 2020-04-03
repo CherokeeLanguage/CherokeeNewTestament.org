@@ -1,0 +1,49 @@
+@import "./_blog/article";
+@import "./_blog/search-results";
+@import "./_blog/pagination";
+@import "./_blog/nav";
+
+html,
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1;
+}
+
+.footer {
+  margin-top: 4rem;
+  padding: 2rem;
+
+  .theme-select-container {
+    margin-left: auto;
+  }
+}
+
+.hero .title {
+  font-size: 3rem;
+}
+
+.article,
+.tag-list {
+  .content p {
+    line-height: 1.9;
+    margin: 15px 0;
+  }
+}
+
+.list.box {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  >a {
+    margin: 0.2rem;
+  }
+}
