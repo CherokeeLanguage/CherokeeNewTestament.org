@@ -1,4 +1,5 @@
 # CherokeeNewTestament.org
+
 The source code for the website https://cherokeenewtestament.org/
 
 The [original folder](original/) contains a copy of the site pre-conversion to Common Markdown.
@@ -6,4 +7,7 @@ The [original folder](original/) contains a copy of the site pre-conversion to C
 The site is generated using [Zola](https://www.getzola.org/).
 
 ## Status
-The server is currently serving the original website while conversion to Markdown is performed to updated the UI to enhance usability with mobile devices.
+
+The new site design is live as of 2020-04-03.
+
+Should per page chat comments be added? Such as via the plugin "utterances"? Please comment on the issue in the issue tracker. Thanks!
