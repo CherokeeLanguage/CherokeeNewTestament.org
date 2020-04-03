@@ -8,6 +8,9 @@ trap 'echo ERROR; sleep 30' ERR
 cd "$(dirname "$0")"
 BASE="$(pwd)"
 
+outformat="commonmark"
+mapfile="$BASE/book-number-name-map.txt"
+
 cd "$BASE/content"
 if [ ! -d Cherokee-New-Testament ]; then mkdir Cherokee-New-Testament; fi
 cd Cherokee-New-Testament
@@ -16,21 +19,24 @@ for x in *; do
 done
 
 #Mapping original two digit sequences to names.
-cp /dev/null book-name-number-map.txt
+cp /dev/null "$mapfile"
 
 bookHtml="$BASE"/original/index.html
 cp "$bookHtml" index.html
 chmod 0644 index.html
-pandoc --eol=lf --wrap=preserve -o index.md.tmp --to=gfm --from=html "index.html"
+pandoc --eol=lf --wrap=preserve -o index.md.tmp --to=$outformat --from=html "index.html"
+
+perl -p -i -e 's|\[(.*?)\]\((.*?)\.html\)|\[$1\]\(@/Cherokee-New-Testament/$1/index.md\)|g' index.md.tmp
+
 date="$(ls -l --time-style='+%Y-%m-%dT%H:%M:%SZ' "$bookHtml"|cut -f 6 -d ' ')"
 weight="$(ls -l --time-style='+%s' "$bookHtml"|cut -f 6 -d ' ')"
-pageName="About"
+bookName="About"
 (
 cat << EOH
 +++
 draft=false
 date = $date
-title = "$pageName - Cherokee New Testament"
+title = "$bookName - Cherokee New Testament"
 weight = $weight
 
 [taxonomies]
@@ -54,13 +60,13 @@ for bookHtml in "$BASE"/original/[0-2][0-9].html; do
     date="$(ls -l --time-style='+%Y-%m-%dT%H:%M:%SZ' "$bookHtml"|cut -f 6 -d ' ')"
     weight="$(ls -l --time-style='+%s' "$bookHtml"|cut -f 6 -d ' ')"
     prefix="$(basename -s .html "$bookHtml")"
-    pageName="$(grep '<h1>' "$bookHtml" | perl -p -e 's|<h1>(.*?)</h1>|$1|g')"
-    echo "=== BOOK: $pageName"
-    printf "$prefix\t$pageName\n" >> book-number-name-map.txt
+    bookName="$(grep '<h1>' "$bookHtml" | perl -p -e 's|<h1>(.*?)</h1>|$1|g')"
+    echo "=== BOOK: $bookName"
+    printf "$prefix\t$bookName\n" >> "$mapfile"
     
-    if [ -d "$pageName" ]; then rm -r "$pageName"; fi
-    mkdir "$pageName"
-    cd "$pageName"
+    if [ -d "$bookName" ]; then rm -r "$bookName"; fi
+    mkdir "$bookName"
+    cd "$bookName"
     if [ -f "$BASE/original/$prefix"_.png ]; then
         cp -p "$BASE/original/$prefix"_.png .
     else
@@ -74,16 +80,17 @@ for bookHtml in "$BASE"/original/[0-2][0-9].html; do
     perl -p -i -e 's|^<br>$||g' index.html
     perl -p -i -e 's|<th>|<td>|g' index.html
     perl -p -i -e 's|</th>|</td>|g' index.html
-    perl -p -i -e 's| width=\d+||g' index.html
+    #perl -p -i -e 's| width=\d+||g' index.html
     perl -p -i -e 's| border=\d+||g' index.html
     perl -p -i -e 's|<br>| |g' index.html
-    pandoc --eol=lf --wrap=preserve -o index.md.tmp --to=gfm --from=html "index.html"
+    pandoc --eol=lf --wrap=preserve -o index.md.tmp --to=$outformat --from=html "index.html"
+    perl -p -i -e 's|\[(.*?)\]\((.*?)\.html\)|\[$1\]\(@/Cherokee-New-Testament/'"$bookName"'/$2/index.md\)|g' index.md.tmp
 (
     cat << EOH
 +++
 draft=false
 date = $date
-title = "$pageName - Cherokee New Testament"
+title = "$bookName - Cherokee New Testament"
 weight = $weight
 
 [taxonomies]
@@ -128,17 +135,17 @@ EOH
         perl -p -i -e 's|^<br>$||g' index.html
         perl -p -i -e 's|<th>|<td>|g' index.html
         perl -p -i -e 's|</th>|</td>|g' index.html
-        perl -p -i -e 's| width=\d+||g' index.html
+        #perl -p -i -e 's| width=\d+||g' index.html
         perl -p -i -e 's| border=\d+||g' index.html
         perl -p -i -e 's|<br>| |g' index.html
-        pandoc --eol=lf --wrap=preserve -o index.md.tmp --to=gfm --from=html "index.html"
+        pandoc --eol=lf --wrap=preserve -o index.md.tmp --to=$outformat --from=html "index.html"
 
         (
         cat << EOH
 +++
 draft=false
 date = $date
-title = "$pageName - Chapter $chapterNo - Cherokee New Testament"
+title = "$bookName - Chapter $chapterNo - Cherokee New Testament"
 weight = $weight
 
 [taxonomies]
@@ -158,3 +165,24 @@ EOH
 
     done
 done
+
+#Post processing fixups
+
+cd "$BASE/content/Cherokee-New-Testament"
+perl -p -i -e 's|^(.*\))  +$|* $1\n|' index.md
+perl -p -i -e 's|(@/Cherokee-New-Testament/[^\)]*?) ([^\)]*)|$1-$2|' index.md
+
+for book in *; do
+    cd "$BASE/content/Cherokee-New-Testament"
+    if [ ! -d "$book" ]; then continue; fi
+    xbook="$book"
+    if [[ "$book" == *" "* ]]; then
+        xbook="$(echo "$book"|sed 's| |-|g')"
+        mv -v "$book" "$xbook"
+    fi
+    cd "$xbook"
+    perl -p -i -e 's|^(.*\))$|* $1\n|' index.md
+    perl -p -i -e 's|(@/Cherokee-New-Testament/[^\)]*?) ([^\)]*)|$1-$2|' index.md
+done
+
+# TODO: Fix up image scaling via img tags to be relative to the original size and viewport width.
