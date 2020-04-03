@@ -13,6 +13,6 @@ tags = []
 [extra]
 +++
 
-### [Cherokee New Testament](@/Cherokee-New-Testament/index.md)
+### [Cherokee New Testament](@/cherokee-new-testament/index.md)
 
 <!-- more -->

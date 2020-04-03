@@ -3,6 +3,8 @@ compile_sass = true
 highlight_code = true
 build_search_index = true
 
+#slugify_enabled = true
+
 taxonomies = [
     {name = "categories", paginate_by = 8, rss = true},
     {name = "tags", paginate_by = 8, rss = true},
@@ -10,6 +12,11 @@ taxonomies = [
 ]
 
 theme = "Zulma"
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
 
 [extra]
 
