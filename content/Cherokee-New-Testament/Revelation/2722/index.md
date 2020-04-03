@@ -1,0 +1,375 @@
++++
+draft=false
+date = 2014-12-18T21:11:07Z
+title = "Revelation - Chapter 22 - Cherokee New Testament"
+weight = 1418955067
+
+[taxonomies]
+
+authors = ["Timothy Legg"]
+categories = []
+tags = []
+
+[extra]
++++
+![](270000.png)
+![](272200.png)
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272201.png"><img src="272201.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And he shewed me a pure river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᎩᎾᏄᎪᏫᏎᎸᎩᏃ ᎤᏁᎬ ᎤᏪᏴ ᎠᎹ ᎬᏂᏛ ᎠᏓᏁᎯ, ᏗᎬᏩᎸᏌᏛ ᎨᏒᎩ, ᏓᎦᎾᏄᎪᎬᎩ ᎦᏍᎩᎸ ᎤᏁᎳᏅᎯ ᎠᎴ ᎤᏃᏕᎾ ᎠᎩᎾ ᎤᎾᏤᎵᎦ.</td>
+</tr>
+<tr class="even">
+<td>A-gi-na-nu-go-wi-se-lv-gi-no u-ne-gv u-we-yv a-ma gv-ni-dv a-da-ne-hi, di-gv-wa-lv-sa-dv ge-sv-gi, da-ga-na-nu-go-gv-gi ga-s-gi-lv U-ne-la-nv-hi a-le U-no-de-na a-gi-na u-na-tse-li-ga.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272202.png"><img src="272202.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᏰᎵᏃ ᎤᏜᏓᏅᏛ ᎾᎿᎭᎡᏓᏍᏗᏱ, ᎠᎴ ᎢᏧᎳᏗᏢ ᎤᏪᏴᎢ, ᏡᎬᎩ ᎬᏂᏛ ᎠᏓᏁᎯ ᏡᎬᎢ, ᎾᏍᎩ ᏔᎳᏚ ᎢᏳᏓᎴᎩ ᎠᏓᏛᏍᎬᎩ ᎠᎴ ᏂᏓᏦᎳᏂᏒ ᎬᎾᏍᎬᎩ ᎤᏓᏔᏅᎯ; ᎤᎳᏍᏚᏒᏃ ᎤᎾᏅᏬᏗ ᎨᏒᎩ ᏧᎾᏓᎴᏅᏛ ᏴᏫ.</td>
+</tr>
+<tr class="even">
+<td>A-ye-li-no u-dla-nv-dv na-hna e-da-s-di-yi, a-le i-tsu-la-di-tlv u-we-yv-i, tlu-gv-gi gv-ni-dv a-da-ne-hi tlu-gv-i, na-s-gi ta-la-du i-yu-da-le-gi a-da-dv-s-gv-gi a-le ni-da-tso-la-ni-sv gv-na-s-gv-gi u-da-ta-nv-hi; u-la-s-du-sv-no u-na-nv-wo-di ge-sv-gi tsu-na-da-le-nv-dv yv-wi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272203.png"><img src="272203.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And there shall be no more curse: but the throne of God and of the Lamb shall be in it; and his servants shall serve him:</td>
+</tr>
+<tr class="odd">
+<td>ᎥᏝ ᎠᎴ ᎿᎭᏉ ᏰᎮᏍᏗ ᎤᏐᏅᎢ; ᎤᏁᎳᏅᎯᏍᎩᏂ ᎤᏤᎵ ᎠᎴ ᎤᏃᏕᎾ ᎠᎩᎾ ᎤᏤᎵ ᎦᏍᎩᎶ ᎾᎿᎭᎦᏍᎩᎴᏍᏗ; ᏧᏤᎵᏃ ᏧᏅᏏᏓᏍᏗ ᎬᏩᏓᏙᎵᏍᏓᏁᎮᏍᏗ;</td>
+</tr>
+<tr class="even">
+<td>V-tla a-le hna-quo ye-he-s-di u-so-nv-i; U-ne-la-nv-hi-s-gi-ni u-tse-li a-le U-no-de-na a-gi-na u-tse-li ga-s-gi-lo na-hna ga-s-gi-le-s-di; tsu-tse-li-no tsu-nv-si-da-s-di gv-wa-da-do-li-s-da-ne-he-s-di;</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272204.png"><img src="272204.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And they shall see his face; and his name shall be in their foreheads.</td>
+</tr>
+<tr class="odd">
+<td>ᎤᎧᏛᏃ ᎠᏂᎪᏩᏘᏍᎨᏍᏗ; ᏚᏙᎥᏃ ᎾᏍᎩ ᏗᏂᎬᏓᎨᏂ ᏕᎪᏪᎴᏍᏗ.</td>
+</tr>
+<tr class="even">
+<td>U-ka-dv-no a-ni-go-wa-ti-s-ge-s-di; du-do-v-no na-s-gi di-ni-gv-da-ge-ni de-go-we-le-s-di.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272205.png"><img src="272205.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.</td>
+</tr>
+<tr class="odd">
+<td>ᎥᏝ ᎠᎴ ᏒᏃᏱ ᏱᎨᏎᏍᏗ ᎾᎿᎭᏂ, ᎥᏝ ᎠᎴ ᏳᎾᏚᎵ ᎠᏨᏍᏙᏗ, ᎠᎴ ᏅᏙ ᎢᎦᎡᎯ ᎢᎦ ᎤᏘᏍᏛᎢ; ᎤᎬᏫᏳᎯᏰᏃ ᎤᏁᎳᏅᎯ ᎢᎦ ᏓᏘᏍᏓᏁᎭ, ᎤᏂᎬᏫᏳᎯᏃ ᎨᏎᏍᏗ ᎤᎵᏍᏆᏗᏍᏗ ᏂᎨᏒᎾ.</td>
+</tr>
+<tr class="even">
+<td>V-tla a-le sv-no-yi yi-ge-se-s-di na-hna-ni, v-tla a-le yu-na-du-li a-tsv-s-do-di, a-le nv-do i-ga-e-hi i-ga u-ti-s-dv-i; U-gv-wi-yu-hi-ye-no U-ne-la-nv-hi i-ga da-ti-s-da-ne-ha, u-ni-gv-wi-yu-hi-no ge-se-s-di u-li-s-qua-di-s-di ni-ge-sv-na.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272206.png"><img src="272206.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And he said unto me, These sayings are faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done.</td>
+</tr>
+<tr class="odd">
+<td>ᎯᎠᏃ ᎾᎩᏪᏎᎸᎩ, ᎯᎠ ᎾᏍᎩ ᎧᏃᎮᏛ ᎬᏜᏓᏏᏛᎡᏗ ᏂᎨᏒᎾ ᎠᎴ ᎤᏙᎯᏳᎯᏯ. ᎤᎬᏫᏳᎯᏃ ᎤᏁᎳᏅᎯ ᎨᏥᎸᏉᏗ ᎠᎾᏙᎴᎰᏍᎩ ᎤᎾᏤᎵᎦ ᏧᏅᏎ ᎤᏤᎵ ᏗᎧᎿᎭᏩᏗᏙᎯ ᎬᏂᎨᏒ ᎢᏧᏩᏁᏗᏱ ᏧᏤᎵ ᏧᏅᏏᏓᏍᏗ, ᎾᏍᎩ ᏧᏓᎴᏅᏛ ᏂᎪᎯᎸᎾᏉ ᎢᏳᎵᏍᏙᏗ ᎨᏒᎢ.</td>
+</tr>
+<tr class="even">
+<td>Hi-a-no na-gi-we-se-lv-gi, Hi-a na-s-gi ka-no-he-dv gv-dla-si-dv-e-di ni-ge-sv-na a-le u-do-hi-yu-hi-ya. U-gv-wi-yu-hi-no U-ne-la-nv-hi ge-tsi-lv-quo-di a-na-do-le-ho-s-gi u-na-tse-li-ga tsu-nv-se u-tse-li di-ka-hna-wa-di-do-hi gv-ni-ge-sv i-tsu-wa-ne-di-yi tsu-tse-li tsu-nv-si-da-s-di, na-s-gi tsu-da-le-nv-dv ni-go-hi-lv-na-quo i-yu-li-s-do-di ge-sv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272207.png"><img src="272207.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Behold, I come quickly: blessed is he that keepeth the sayings of the prophecy of this book.</td>
+</tr>
+<tr class="odd">
+<td>ᎬᏂᏳᏉ ᏞᎩᏳ ᏓᏥᎷᏥ; ᎣᏏᏳ ᎢᏳᎵᏍᏓᏁᏗ ᎠᏍᏆᏂᎪᏗᏍᎩ ᎧᏃᎮᏛ ᎠᏙᎴᎰᏒᎯ ᎠᏂ ᎪᏪᎵᎯ ᎪᏪᎸᎢ.</td>
+</tr>
+<tr class="even">
+<td>Gv-ni-yu-quo tle-gi-yu da-tsi-lu-tsi; o-si-yu i-yu-li-s-da-ne-di a-s-qua-ni-go-di-s-gi ka-no-he-dv a-do-le-ho-sv-hi a-ni go-we-li-hi go-we-lv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272208.png"><img src="272208.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᎴ ᎠᏴ ᏣᏂ ᎠᎩᎪᎲᎩ ᎯᎠ ᎾᏍᎩ ᏧᏓᎴᏅᏛ, ᎠᎴ ᎠᏆᏛᎦᏅᎩ. ᎠᏆᏛᎦᏅᏃ ᎠᎴ ᎠᎩᎪᎲ, ᎡᎳᏗ ᎠᏆᏓᏅᏅᎩ ᏓᎦᏓᏙᎵᏍᏔᏂᏒᎩ ᏚᎳᏍᎬ ᎾᏍᎩ Ꮎ ᏗᎧᎿᎭᏩᏗᏙᎯ ᎯᎠ ᎾᏍᎩ ᏧᏓᎴᏅᏛ ᎠᎩᎾᏄᎪᏫᏎᎸᎯ.</td>
+</tr>
+<tr class="even">
+<td>A-le a-yv Tsa-ni a-gi-go-hv-gi hi-a na-s-gi tsu-da-le-nv-dv, a-le a-qua-dv-ga-nv-gi. A-qua-dv-ga-nv-no a-le a-gi-go-hv, e-la-di a-qua-da-nv-nv-gi da-ga-da-do-li-s-ta-ni-sv-gi du-la-s-gv na-s-gi na di-ka-hna-wa-di-do-hi hi-a na-s-gi tsu-da-le-nv-dv a-gi-na-nu-go-wi-se-lv-hi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272209.png"><img src="272209.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Then saith he unto me, See thou do it not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God.</td>
+</tr>
+<tr class="odd">
+<td>ᎯᎠᏃ ᎾᎩᏪᏎᎸᎩ, ᎥᏞᏍᏗ. ᎠᏴᏰᏃ ᎤᏠᏱᏉ ᎡᎩᏂᏅᏏᏓᏍᏗ, ᎠᎴ ᎠᏴ ᎾᏍᎩ ᎠᎾᏙᎴᎰᏍᎩ ᏥᎨᏒ ᎢᏣᎵᏅᏟ, ᎠᎴ ᎾᏍᎩ ᎠᏂᏍᏆᏂᎪᏗᏍᎩ ᎧᏃᎮᏛ ᎠᏂ ᎪᏪᎵᎯ ᎪᏪᎸᎢ; ᎤᏁᎳᏅᎯ ᎯᏯᏓᏙᎵᏍᏓᏏ.</td>
+</tr>
+<tr class="even">
+<td>Hi-a-no na-gi-we-se-lv-gi, V-tle-s-di. A-yv-ye-no u-tlo-yi-quo e-gi-ni-nv-si-da-s-di, a-le a-yv na-s-gi a-na-do-le-ho-s-gi tsi-ge-sv i-tsa-li-nv-tli, a-le na-s-gi a-ni-s-qua-ni-go-di-s-gi ka-no-he-dv a-ni go-we-li-hi go-we-lv-i; u-ne-la-nv-hi hi-ya-da-do-li-s-da-si.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272210.png"><img src="272210.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And he saith unto me, Seal not the sayings of the prophecy of this book: for the time is at hand.</td>
+</tr>
+<tr class="odd">
+<td>ᎯᎠᏃ ᎾᎩᏪᏎᎸᎩ, ᏞᏍᏗ ᏣᏍᏚᏅᎩ ᎧᏃᎮᏛ ᎠᏙᎴᎰᏒᎯ ᎠᏂ ᎯᎠ ᎪᏪᎵᎯ; ᎤᏍᏆᎸᎯᏗᏰᏃ.</td>
+</tr>
+<tr class="even">
+<td>Hi-a-no na-gi-we-se-lv-gi, Tle-s-di tsa-s-du-nv-gi ka-no-he-dv a-do-le-ho-sv-hi a-ni hi-a go-we-li-hi; u-s-qua-lv-hi-di-ye-no.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272211.png"><img src="272211.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>He that is unjust, let him be unjust still: and he which is filthy, let him be filthy still: and he that is righteous, let him be righteous still: and he that is holy, let him be holy still.</td>
+</tr>
+<tr class="odd">
+<td>ᎩᎶ ᎠᏍᎦᎾ ᎨᏎᏍᏗ, ᎠᏏᏉ ᎠᏍᎦᎾ ᎨᏎᏍᏗ; ᎩᎶᏃ ᎦᏓᎭ ᎨᏎᏍᏗ, ᎠᏏᏉ ᎦᏓᎭ ᎨᏎᏍᏗ; ᎩᎶᏃ ᎣᏏᏳ ᎢᏯᏛᏁᎯ ᎨᏎᏍᏗ, ᎠᏏᏉ ᎣᏏᏳ ᎢᏯᏛᏁᎯ ᎨᏎᏍᏗ; ᎩᎶᏃ ᎠᏍᎦᎾ ᏂᎨᏒᎾ ᎨᏎᏍᏗ, ᎠᏏᏉ ᎠᏍᎦᎾ ᏂᎨᏒᎾ ᎨᏎᏍᏗ.</td>
+</tr>
+<tr class="even">
+<td>Gi-lo a-s-ga-na ge-se-s-di, a-si-quo a-s-ga-na ge-se-s-di; gi-lo-no ga-da-ha ge-se-s-di, a-si-quo ga-da-ha ge-se-s-di; gi-lo-no o-si-yu i-ya-dv-ne-hi ge-se-s-di, a-si-quo o-si-yu i-ya-dv-ne-hi ge-se-s-di; gi-lo-no a-s-ga-na ni-ge-sv-na ge-se-s-di, a-si-quo a-s-ga-na ni-ge-sv-na ge-se-s-di.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272212.png"><img src="272212.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And, behold, I come quickly; and my reward is with me, to give every man according as his work shall be.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᎴ ᎬᏂᏳᏉ ᏞᎩᏳ ᏓᏥᎷᏥ; ᎠᎴ ᎠᏆᎫᏴᏗ ᏥᏰᎮᏍᏗ, ᎦᏥᏁᏗᏱ ᎾᏂᎥ ᎠᏂᏏᏴᏫᎭ ᎾᏍᎩᏯ ᏄᏍᏛ ᏚᏂᎸᏫᏍᏓᏁᎸᎢ.</td>
+</tr>
+<tr class="even">
+<td>A-le gv-ni-yu-quo tle-gi-yu da-tsi-lu-tsi; a-le a-qua-gu-yv-di tsi-ye-he-s-di, ga-tsi-ne-di-yi na-ni-v a-ni-si-yv-wi-ha na-s-gi-ya nu-s-dv du-ni-lv-wi-s-da-ne-lv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272213.png"><img src="272213.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>I am Alpha and Omega, the beginning and the end, the first and the last.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᏴ ᎡᎵᏆ ᎠᎴ ᎣᎻᎦ, ᏗᏓᎴᏅᏗᏍᎩ ᎠᎴ ᎠᏍᏆᏗᏍᏗᏍᎩ, ᎠᎴ ᎢᎬᏱᏱ ᎠᎴ ᎤᎵᏍᏆᎸᎢ.</td>
+</tr>
+<tr class="even">
+<td>A-yv E-li-qua a-le O-mi-ga, di-da-le-nv-di-s-gi a-le a-s-qua-di-s-di-s-gi, a-le i-gv-yi-yi a-le u-li-s-qua-lv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272214.png"><img src="272214.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.</td>
+</tr>
+<tr class="odd">
+<td>ᎣᏏᏳ ᎢᏳᎾᎵᏍᏓᏁᏗ ᎾᏍᎩ Ꮎ ᎤᏤᎵ ᏗᎧᎿᎭᏩᏛᏍᏗ ᏂᎦᏪᏍᎬ ᎢᏯᎾᏛᏁᎯ, ᎾᏍᎩ ᎬᏂᏛ ᏡᎬ ᎤᎾᏤᎵ ᎢᏳᎵᏍᏙᏗᏱ, ᎠᎴ ᏫᎬᏩᏂᏴᏍᏗ ᎢᏳᎵᏍᏙᏗᏱ ᎦᎶᎯᏍᏗᏱ ᎪᏢᏒ ᎦᏚᎲᎢ.</td>
+</tr>
+<tr class="even">
+<td>O-si-yu i-yu-na-li-s-da-ne-di na-s-gi na u-tse-li di-ka-hna-wa-dv-s-di ni-ga-we-s-gv i-ya-na-dv-ne-hi, na-s-gi gv-ni-dv tlu-gv u-na-tse-li i-yu-li-s-do-di-yi, a-le wi-gv-wa-ni-yv-s-di i-yu-li-s-do-di-yi ga-lo-hi-s-di-yi go-tlv-sv ga-du-hv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272215.png"><img src="272215.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For without are dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie.</td>
+</tr>
+<tr class="odd">
+<td>ᏙᏱᏗᏢᏰᏃ ᎠᏁᏙᎭ ᎩᎶ, ᎠᎴ ᏗᎾᏙᏂᏍᎩ, ᎠᎴ ᎤᏂᏁᎫᏥᏛ, ᎠᎴ ᏗᎾᏓᎯᎯ, ᎠᎴ ᎤᏁᎳᏅᎯ ᏗᏰᎸᎯ ᏗᎾᏓᏙᎵᏍᏓᏁᎯ, ᎠᎴ ᏂᎦᏗᏳ ᎣᏏᏳ ᎤᏂᏰᎸᎯ ᎦᏰᎪᎩ ᎨᏒ, ᎠᎴ ᎦᏰᎪᎩ ᎠᏃᏢᏍᎩ.</td>
+</tr>
+<tr class="even">
+<td>Do-yi-di-tlv-ye-no a-ne-do-ha gi-lo, a-le di-na-do-ni-s-gi, a-le u-ni-ne-gu-tsi-dv, a-le di-na-da-hi-hi, a-le U-ne-la-nv-hi di-ye-lv-hi di-na-da-do-li-s-da-ne-hi, a-le ni-ga-di-yu o-si-yu u-ni-ye-lv-hi ga-ye-go-gi ge-sv, a-le ga-ye-go-gi a-no-tlv-s-gi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272216.png"><img src="272216.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᏴ ᏥᏌ ᏗᏥᏅᏒ ᎠᏆᏤᎵ ᏗᎧᎿᎭᏩᏗᏙᎯ ᎬᏂᎨᏒ ᎢᏨᏁᏗᏱ ᎯᎠ ᎾᏍᎩ ᏧᏓᎴᏅᏛ ᏧᎾᏁᎶᏗ ᏚᎾᏓᏡᏩᏗᏒᎢ. ᎠᏴ ᏕᏫ ᎤᏪᏥ ᎠᎴ ᎾᏍᎩ ᎤᏁᏢᏔᏅᏛ ᎨᏒᎢ, ᎠᎴ ᏃᏈᏏ ᏧᎦᏙᏴᎢᏍᏗ ᎠᎴ ᏑᎾᎴ ᎡᎯ.</td>
+</tr>
+<tr class="even">
+<td>A-yv Tsi-sa di-tsi-nv-sv a-qua-tse-li di-ka-hna-wa-di-do-hi gv-ni-ge-sv i-tsv-ne-di-yi hi-a na-s-gi tsu-da-le-nv-dv tsu-na-ne-lo-di du-na-da-tlu-wa-di-sv-i. A-yv De-wi u-we-tsi a-le na-s-gi u-ne-tlv-ta-nv-dv ge-sv-i, a-le no-qui-si tsu-ga-do-yv-i-s-di a-le su-na-le e-hi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272217.png"><img src="272217.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᏓᏅᏙᏃ ᎠᎴ ᎠᏥᏰᎯ ᎡᎮᎾ ᎠᎾᏗᎭ. ᎠᎴ ᎠᏛᎩᏍᎩ ᎡᎮᎾ ᎠᏗᏍᎨᏍᏗ. ᎠᎴ ᎩᎶ ᎤᏔᏕᎩᏍᎩ ᏫᎦᎷᎩ; ᎠᎴ ᎩᎶ ᎤᏚᎵᏍᎨᏍᏗ ᎦᏁᎩᏍᎨᏍᏗ ᎠᎹ ᎬᏂᏛ ᎠᏓᏁᎯ ᏧᎬᏩᎶᏗ ᏂᎨᏒᎾ.</td>
+</tr>
+<tr class="even">
+<td>A-da-nv-do-no a-le a-tsi-ye-hi E-he-na a-na-di-ha. A-le a-dv-gi-s-gi E-he-na a-di-s-ge-s-di. A-le gi-lo u-ta-de-gi-s-gi wi-ga-lu-gi; a-le gi-lo u-du-li-s-ge-s-di ga-ne-gi-s-ge-s-di a-ma gv-ni-dv a-da-ne-hi tsu-gv-wa-lo-di ni-ge-sv-na.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272218.png"><img src="272218.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:</td>
+</tr>
+<tr class="odd">
+<td>ᎬᏂᎨᏒᏰᏃ ᏂᎦᏥᏴᏁᎭ ᎾᏂᎥᏉ ᎩᎶ ᎠᎾᏛᎩᏍᎩ ᎧᏃᎮᏛ ᎠᏙᎴᎰᏒᎯ ᎠᏂ ᎪᏪᎵᎯ ᏥᎪᏪᎳ, ᎾᏍᎩ ᎢᏳᏃ ᎩᎶ ᎢᎧᏁᏉᏍᎨᏍᏗ ᎯᎠ ᎾᏍᎩ ᏧᏓᎴᏅᏛ ᎠᏂ ᎪᏪᎵᎯ ᏥᎪᏪᎳ, ᎤᏁᎳᏅᎯ ᎠᏎ ᎤᏁᏉᎡᏗ ᎨᏎᏍᏗ ᎤᏕᏯᏙᏗ ᎨᏒ ᎠᏂ ᎪᏪᎵᎯ ᏥᎪᏪᎳ;</td>
+</tr>
+<tr class="even">
+<td>Gv-ni-ge-sv-ye-no ni-ga-tsi-yv-ne-ha na-ni-v-quo gi-lo a-na-dv-gi-s-gi ka-no-he-dv a-do-le-ho-sv-hi a-ni go-we-li-hi tsi-go-we-la, na-s-gi i-yu-no gi-lo i-ka-ne-quo-s-ge-s-di hi-a na-s-gi tsu-da-le-nv-dv a-ni go-we-li-hi tsi-go-we-la, U-ne-la-nv-hi a-se u-ne-quo-e-di ge-se-s-di u-de-ya-do-di ge-sv a-ni go-we-li-hi tsi-go-we-la;</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272219.png"><img src="272219.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.</td>
+</tr>
+<tr class="odd">
+<td>ᎢᏳ ᎠᎴ ᎩᎶ ᎢᎪᏣᎴᏍᎨᏍᏗ ᎢᎦᏛ ᎧᏃᎮᏛ ᎪᏪᎵᎯ ᎯᎠ ᎾᏍᎩ ᎠᏙᎴᎰᏒᎯ ᎨᏒᎢ, ᎤᏁᎳᏅᎯ ᎠᏎ ᏓᏳᏬᏣᎳᎡᎵ ᎤᏤᎵ ᎨᏒ ᎬᏂᏛ ᎠᏓᏁᎯ ᎪᏪᎵᎯ, ᎠᎴ ᎦᎸᏉᏗᏳ ᎦᏚᎲᎢ, ᎠᎴ ᏧᏓᎴᏅᏛ ᎪᏪᎸ ᎠᏂ ᎪᏪᎵᎯ.</td>
+</tr>
+<tr class="even">
+<td>I-yu a-le gi-lo i-go-tsa-le-s-ge-s-di i-ga-dv ka-no-he-dv go-we-li-hi hi-a na-s-gi a-do-le-ho-sv-hi ge-sv-i, U-ne-la-nv-hi a-se da-yu-wo-tsa-la-e-li u-tse-li ge-sv gv-ni-dv a-da-ne-hi go-we-li-hi, a-le ga-lv-quo-di-yu ga-du-hv-i, a-le tsu-da-le-nv-dv go-we-lv a-ni go-we-li-hi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272220.png"><img src="272220.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.</td>
+</tr>
+<tr class="odd">
+<td>ᎯᎠ ᎾᏍᎩ ᏧᏓᎴᏅᏛ ᎬᏂᎨᏒ ᎢᎬᏁᎯ, ᎯᎠ ᏂᎦᏪᎭ, ᎤᏙᎯᏳᎯᏯ ᏞᎩᏳ ᏓᏥᎷᏥ. ᎡᎺᏅ; ᎰᏩᏉ; ᏞᎩᏳ ᎯᎷᎩ ᏣᎬᏫᏳᎯ ᏥᏌ.</td>
+</tr>
+<tr class="even">
+<td>Hi-a na-s-gi tsu-da-le-nv-dv gv-ni-ge-sv i-gv-ne-hi, hi-a ni-ga-we-ha, u-do-hi-yu-hi-ya tle-gi-yu da-tsi-lu-tsi. E-me-nv; ho-wa-quo; tle-gi-yu hi-lu-gi Tsa-gv-wi-yu-hi Tsi-sa.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="272221.png"><img src="272221.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>The grace of our Lord Jesus Christ be with you all. Amen.</td>
+</tr>
+<tr class="odd">
+<td>ᎬᏩᎦᏘᏯ ᎤᏓᏙᎵᏍᏗ ᎨᏒ ᎤᎬᏫᏳᎯ ᏥᏌ ᎦᎶᏁᏛ ᎢᎦᏤᎵᎦ ᎢᏤᎳᏗᏙᎮᏍᏗ ᏂᏥᎥᎢ. ᎡᎺᏅ.</td>
+</tr>
+<tr class="even">
+<td>Gv-wa-ga-ti-ya u-da-do-li-s-di ge-sv U-gv-wi-yu-hi Tsi-sa Ga-lo-ne-dv i-ga-tse-li-ga i-tse-la-di-do-he-s-di ni-tsi-v-i. E-me-nv.</td>
+</tr>
+</tbody>
+</table>
+
+![](27_.png)

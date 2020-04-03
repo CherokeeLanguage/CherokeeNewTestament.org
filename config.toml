@@ -17,3 +17,32 @@ zulma_title = "Cherokee New Testament"
 zulma_brand = {text="Cherokee New Testament"}
 zulma_theme = "superhero"
 zulma_allow_theme_selection = true
+
+#zulma_menu = [   {url = "/cherokee-new-testament/", name ="CNT TOC"}]
+
+#{url = * [Mark](@/Cherokee-New-Testament/Mark/index.md)
+#{url = * [Luke](@/Cherokee-New-Testament/Luke/index.md)
+#{url = * [John](@/Cherokee-New-Testament/John/index.md)
+#{url = * [The Acts](@/Cherokee-New-Testament/The-Acts/index.md)
+#{url = * [Romans](@/Cherokee-New-Testament/Romans/index.md)
+#{url = * [1 Corinthians](@/Cherokee-New-Testament/1-Corinthians/index.md)
+#{url = * [2 Corinthians](@/Cherokee-New-Testament/2-Corinthians/index.md)
+#{url = * [Galatians](@/Cherokee-New-Testament/Galatians/index.md)
+#{url = * [Ephesians](@/Cherokee-New-Testament/Ephesians/index.md)
+#{url = * [Philippians](@/Cherokee-New-Testament/Philippians/index.md)
+#{url = * [Colossians](@/Cherokee-New-Testament/Colossians/index.md)
+#{url = * [1 Thessalonians](@/Cherokee-New-Testament/1-Thessalonians/index.md)
+#{url = * [2 Thessalonians](@/Cherokee-New-Testament/2-Thessalonians/index.md)
+#{url = * [1 Timothy](@/Cherokee-New-Testament/1-Timothy/index.md)
+#{url = * [2 Timothy](@/Cherokee-New-Testament/2-Timothy/index.md)
+#{url = * [Titus](@/Cherokee-New-Testament/Titus/index.md)
+#{url = * [Philemon](@/Cherokee-New-Testament/Philemon/index.md)
+#{url = * [Hebrews](@/Cherokee-New-Testament/Hebrews/index.md)
+#{url = * [James](@/Cherokee-New-Testament/James/index.md)
+#{url = * [1 Peter](@/Cherokee-New-Testament/1-Peter/index.md)
+#{url = * [2 Peter](@/Cherokee-New-Testament/2-Peter/index.md)
+#{url = * [1 John](@/Cherokee-New-Testament/1-John/index.md)
+#{url = * [2 John](@/Cherokee-New-Testament/2-John/index.md)
+#{url = * [3 John](@/Cherokee-New-Testament/3-John/index.md)
+#{url = * [Jude](@/Cherokee-New-Testament/Jude/index.md)
+#{url = * [Revelation](@/Cherokee-New-Testament/Revelation/index.md)

@@ -1,0 +1,681 @@
++++
+draft=false
+date = 2014-12-18T21:11:07Z
+title = "Romans - Chapter 8 - Cherokee New Testament"
+weight = 1418955067
+
+[taxonomies]
+
+authors = ["Timothy Legg"]
+categories = []
+tags = []
+
+[extra]
++++
+![](060000.png)
+![](060800.png)
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060801.png"><img src="060801.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩ ᎢᏳᏍᏗ ᎥᏝ ᎿᎭᏉ ᏩᎭ ᏗᎬᏩᎾᏚᎪᏓᏁᏗ ᎨᏒ ᎾᏍᎩ Ꮎ ᏥᏌ ᎦᎶᏁᏛ ᎬᏩᏯᎢ, ᎾᏍᎩ ᎤᏇᏓᎵ ᎨᏒ ᎾᏂᏍᏓᏩᏕᎬᎾ ᏥᎩ, ᎠᏓᏅᏙᏍᎩᏂ ᏣᏂᏍᏓᏩᏕᎦ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi i-yu-s-di v-tla hna-quo wa-ha di-gv-wa-na-du-go-da-ne-di ge-sv na-s-gi na Tsi-sa Ga-lo-ne-dv gv-wa-ya-i, na-s-gi u-que-da-li ge-sv na-ni-s-da-wa-de-gv-na tsi-gi, a-da-nv-do-s-gi-ni tsa-ni-s-da-wa-de-ga.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060802.png"><img src="060802.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᏓᏅᏙᏰᏃ ᎬᏂᏛ ᎠᏓᏁᎯ, ᎾᏍᎩ ᎬᏂᏛ ᎦᎶᏁᏛ ᏥᏌ ᏨᏗᏓᎴᎲᏍᎦ, ᎾᏍᎩ ᎠᏓᏅᏙ ᎤᏤᎵ ᏗᎧᎿᎭᏩᏛᏍᏗ ᎠᏊᏓᎴᏒ ᎠᏍᎦᏂ ᎠᎴ ᎠᏲᎱᎯᏍᏗ ᎨᏒ ᎤᎾᏤᎵ ᏗᎧᎿᎭᏩᏛᏍᏗᏱ ᎠᏆᏚᏓᎸᎢ.</td>
+</tr>
+<tr class="even">
+<td>A-da-nv-do-ye-no gv-ni-dv a-da-ne-hi, na-s-gi gv-ni-dv Ga-lo-ne-dv Tsi-sa tsv-di-da-le-hv-s-ga, na-s-gi A-da-nv-do u-tse-li di-ka-hna-wa-dv-s-di a-quu-da-le-sv a-s-ga-ni a-le a-yo-hu-hi-s-di ge-sv u-na-tse-li di-ka-hna-wa-dv-s-di-yi a-qua-du-da-lv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060803.png"><img src="060803.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For what the law could not do, in that it was weak through the flesh, God sending his own Son in the likeness of sinful flesh, and for sin, condemned sin in the flesh:</td>
+</tr>
+<tr class="odd">
+<td>ᏗᎧᎿᎭᏩᏛᏍᏗᏰᏃ ᎢᎬᏩᏛᏁᏗ ᏂᎨᏒᎾ ᎨᏒᎢ, ᏅᏗᎦᎵᏍᏙᏗᏍᎬ ᎠᏩᎾᎦᎳᎯᏳ ᎨᏒ ᎤᏇᏓᎵ ᎢᏳᏩᏂᏌᏛ,^ ᎤᏁᎳᏅᎯ ᎤᏩᏒ ᎤᏪᏥ ᏧᏅᏎ ᎾᏍᎩᏯ ᏗᏟᎶᏍᏔᏅᎯ ᎠᏍᎦᎾ ᎤᏇᏓᎵ, ᎠᎴ ᎠᏍᎦᏂ ᏧᎬᏩᎴᎢ, ᏚᏭᎪᏓᏁᎴ ᎤᏎᎪᎩᏎ ᎠᏍᎦᏅᎢᏍᏗ ᎨᏒ ᎤᏇᏓᎸ ᎠᏯᎥᎢ;</td>
+</tr>
+<tr class="even">
+<td>Di-ka-hna-wa-dv-s-di-ye-no i-gv-wa-dv-ne-di ni-ge-sv-na ge-sv-i, nv-di-ga-li-s-do-di-s-gv a-wa-na-ga-la-hi-yu ge-sv u-que-da-li i-yu-wa-ni-sa-dv,^ U-ne-la-nv-hi u-wa-sv U-we-tsi tsu-nv-se na-s-gi-ya di-tli-lo-s-ta-nv-hi a-s-ga-na u-que-da-li, a-le a-s-ga-ni tsu-gv-wa-le-i, du-wu-go-da-ne-le u-se-go-gi-se a-s-ga-nv-i-s-di ge-sv u-que-da-lv a-ya-v-i;</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060804.png"><img src="060804.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩ ᏅᏓᏳᎵᏍᏙᏙᏗᏱ ᏗᎧᎿᎭᏩᏛᏍᏗ ᏂᎦᏪᏍᎬ ᎾᏍᎩᏯ ᏚᏳᎪᏛ ᎢᎦᏛᏁᎰᎲᏍᏗᏱ, ᎠᏴ ᎤᏇᏓᎵ ᎨᏒ ᎢᏗᏍᏓᏩᏕᎩ ᏂᎨᏒᎾ ᏥᎩ, ᎠᏓᏅᏙᏍᎩᏂ ᎢᏗᏍᏓᏩᏕᎩ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi nv-da-yu-li-s-do-do-di-yi di-ka-hna-wa-dv-s-di ni-ga-we-s-gv na-s-gi-ya du-yu-go-dv i-ga-dv-ne-ho-hv-s-di-yi, a-yv u-que-da-li ge-sv i-di-s-da-wa-de-gi ni-ge-sv-na tsi-gi, A-da-nv-do-s-gi-ni i-di-s-da-wa-de-gi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060805.png"><img src="060805.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩᏰᏃ ᎤᏇᏓᎵ ᏧᎾᏘᏂᏙᎯ ᎤᏇᏓᎵᏉ ᎤᏤᎵ ᎤᎬᏩᎵ ᎤᎾᎦᏌᏯᏍᏙᎢ, ᎾᏍᎩᏍᎩᏂ Ꮎ ᎠᏓᏅᏙ ᏧᎾᏘᏂᏙᎯ ᎠᏓᏅᏙᏉ ᎤᏤᎵ ᎤᎬᏩᎵ ᎤᎾᎦᏌᏯᏍᏙᎢ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi-ye-no u-que-da-li tsu-na-ti-ni-do-hi u-que-da-li-quo u-tse-li u-gv-wa-li u-na-ga-sa-ya-s-do-i, na-s-gi-s-gi-ni na A-da-nv-do tsu-na-ti-ni-do-hi A-da-nv-do-quo u-tse-li u-gv-wa-li u-na-ga-sa-ya-s-do-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060806.png"><img src="060806.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For to be carnally minded is death; but to be spiritually minded is life and peace.</td>
+</tr>
+<tr class="odd">
+<td>ᎤᏇᏓᎵᏰᏃ ᎠᎦᏌᏯᏍᏙᏗᏱ ᎠᏲᎱᎯᏍᏗ ᎨᏒ ᏩᎵᏰᎢᎶᎯᎭ; ᎠᏓᏅᏙᏍᎩᏂ ᎠᏕᏌᏯᏍᏙᏗᏱ ᎬᏂᏛ ᎠᎴ ᏅᏩᏙᎯᏯᏛ ᏗᎨᏒ ᏩᎵᏰᎢᎶᎯᎭ.</td>
+</tr>
+<tr class="even">
+<td>U-que-da-li-ye-no a-ga-sa-ya-s-do-di-yi a-yo-hu-hi-s-di ge-sv wa-li-ye-i-lo-hi-ha; a-da-nv-do-s-gi-ni a-de-sa-ya-s-do-di-yi gv-ni-dv a-le nv-wa-do-hi-ya-dv di-ge-sv wa-li-ye-i-lo-hi-ha.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060807.png"><img src="060807.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.</td>
+</tr>
+<tr class="odd">
+<td>ᎤᏇᏓᎵᏰᏃ ᎠᎦᏌᏯᏍᏙᏗᏱ ᎨᏒ ᎾᏍᎩ ᎤᏁᎳᏅᎯ ᏗᎦᏘᎴᎩ; ᎥᏝᏰᏃ ᏗᎧᎿᎭᏩᏛᏍᏗ ᎤᏁᎳᏅᎯ ᎤᏤᎵ ᏗᎧᎿᎭᏩᏕᎩ ᏱᎩ, ᎥᏝ ᎠᎴ ᎤᏙᎩᏳᎯ ᎾᏍᎩ ᏰᎵ ᏱᏅᎬᏛᎦ;</td>
+</tr>
+<tr class="even">
+<td>U-que-da-li-ye-no a-ga-sa-ya-s-do-di-yi ge-sv na-s-gi U-ne-la-nv-hi di-ga-ti-le-gi; v-tla-ye-no di-ka-hna-wa-dv-s-di U-ne-la-nv-hi u-tse-li di-ka-hna-wa-de-gi yi-gi, v-tla a-le u-do-gi-yu-hi na-s-gi ye-li yi-nv-gv-dv-ga;</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060808.png"><img src="060808.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>So then they that are in the flesh cannot please God.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩᏃ ᎤᏇᏓᎵ ᏧᎾᏘᏂᏙᎯ ᎨᏒ ᎥᏝ ᎤᏁᎳᏅᎯ ᎣᏍᏛ ᎤᏰᎸᏗ ᏱᏅᎬᎾᏛᎦ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi-no u-que-da-li tsu-na-ti-ni-do-hi ge-sv v-tla U-ne-la-nv-hi o-s-dv u-ye-lv-di yi-nv-gv-na-dv-ga.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060809.png"><img src="060809.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.</td>
+</tr>
+<tr class="odd">
+<td>ᏂᎯᏍᎩᏂ ᎥᏝ ᎤᏇᏓᎵ ᏗᏣᏘᏂᏙᎯ ᏱᎩ, ᎠᏓᏅᏙᏍᎩᏂ ᏗᏣᏘᏂᏙᎯ, ᎢᏳᏃ ᎰᏩ ᎤᏁᎳᏅᎯ ᎤᏓᏅᏙ ᏱᏥᏯᎠ. ᎠᎴ ᎢᏳ ᎩᎶ ᎦᎶᏁᏛ ᎤᏓᏅᏙ ᏄᏪᎲᎾ ᎢᎨᏎᏍᏗ, ᎾᏍᎩ Ꮎ ᎥᏝ [ᎦᎶᏁᏛ] ᎤᏤᎵ ᏱᎦᎩ.</td>
+</tr>
+<tr class="even">
+<td>Ni-hi-s-gi-ni v-tla u-que-da-li di-tsa-ti-ni-do-hi yi-gi, A-da-nv-do-s-gi-ni di-tsa-ti-ni-do-hi, i-yu-no ho-wa U-ne-la-nv-hi U-da-nv-do yi-tsi-ya-a. A-le i-yu gi-lo Ga-lo-ne-dv U-da-nv-do nu-we-hv-na i-ge-se-s-di, na-s-gi na v-tla [Ga-lo-ne-dv] u-tse-li yi-ga-gi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060810.png"><img src="060810.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.</td>
+</tr>
+<tr class="odd">
+<td>ᎢᏳᏍᎩᏂ ᎦᎶᏁᏛ ᎢᏥᏯᎡᏍᏗ, ᎠᏰᎸ ᎤᏙᎯᏳᎯ ᎤᏲᎱᏒᎯ ᎠᏍᎦᏂ ᏅᏗᎦᎵᏍᏙᏗᎭ; ᎠᏓᏅᏙᏍᎩᏂ ᎬᏃᏛ ᏚᏳᎪᏛ ᎢᏯᏛᏁᏗ ᎨᏒ ᏅᏗᎦᎵᏍᏙᏗᎭ.</td>
+</tr>
+<tr class="even">
+<td>I-yu-s-gi-ni Ga-lo-ne-dv i-tsi-ya-e-s-di, a-ye-lv u-do-hi-yu-hi u-yo-hu-sv-hi a-s-ga-ni nv-di-ga-li-s-do-di-ha; A-da-nv-do-s-gi-ni gv-no-dv du-yu-go-dv i-ya-dv-ne-di ge-sv nv-di-ga-li-s-do-di-ha.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060811.png"><img src="060811.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.</td>
+</tr>
+<tr class="odd">
+<td>ᎢᏳᏍᎩᏂ ᏥᏌ ᎤᏲᎱᏒ ᏧᎴᏔᏅᎯ ᎤᏓᏅᏙ ᎢᏥᏯᎡᏍᏗ, ᎾᏍᎩ ᎦᎶᏁᏛ ᎤᏲᎱᏒ ᏧᎴᏔᏅᎯ ᎾᏍᏉ ᏙᏓᎬᏃᎯᏍᏔᏂ ᏗᏲᎱᏍᎩ ᏗᏥᏰᎸᎢ ᏓᎬᏔᏂ ᎤᏓᏅᏙ ᎾᏍᎩ ᏥᏥᏯᎠ.</td>
+</tr>
+<tr class="even">
+<td>I-yu-s-gi-ni Tsi-sa u-yo-hu-sv tsu-le-ta-nv-hi U-da-nv-do i-tsi-ya-e-s-di, na-s-gi Ga-lo-ne-dv u-yo-hu-sv tsu-le-ta-nv-hi na-s-quo do-da-gv-no-hi-s-ta-ni di-yo-hu-s-gi di-tsi-ye-lv-i da-gv-ta-ni U-da-nv-do na-s-gi tsi-tsi-ya-a.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060812.png"><img src="060812.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Therefore, brethren, we are debtors, not to the flesh, to live after the flesh.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩ ᎢᏳᏍᏗ ᎢᏓᎵᏅᏟ, ᎡᎩᏚᎦ, ᎥᏝ ᎤᏇᏓᎵ ᏱᎩᏚᎦ, ᎾᏍᎩ ᎤᏇᏓᎵ ᎢᎩᏍᏓᏩᏗᏓᏍᏗᏱ ᎢᏕᎲᎢ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi i-yu-s-di i-da-li-nv-tli, e-gi-du-ga, v-tla u-que-da-li yi-gi-du-ga, na-s-gi u-que-da-li i-gi-s-da-wa-di-da-s-di-yi i-de-hv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060813.png"><img src="060813.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.</td>
+</tr>
+<tr class="odd">
+<td>ᎢᏳᏰᏃ ᎢᏤᎲ ᎤᏇᏓᎵ ᎨᏒ ᎢᏥᏍᏓᏩᏗᏙᎮᏍᏗ, ᏙᏓᏥᏲᎱᏏ; ᎢᏳᏍᎩᏂ ᎠᏓᏅᏙ ᎬᏗ ᎠᏰᎸ ᏚᎸᏫᏍᏓᏁᎲ ᎢᏥᎯᎮᏍᏗ, ᏕᏨᏁᏍᏗ.</td>
+</tr>
+<tr class="even">
+<td>I-yu-ye-no i-tse-hv u-que-da-li ge-sv i-tsi-s-da-wa-di-do-he-s-di, do-da-tsi-yo-hu-si; i-yu-s-gi-ni A-da-nv-do gv-di a-ye-lv du-lv-wi-s-da-ne-hv i-tsi-hi-he-s-di, de-tsv-ne-s-di.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060814.png"><img src="060814.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For as many as are led by the Spirit of God, they are the sons of God.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏂᎥᏰᏃ ᎩᎶᎢ ᎤᏁᎳᏅᎯ ᎤᏓᏅᏙ ᏧᎾᏘᏂᏙᎯ, ᎾᏍᎩ ᎤᏁᎳᏅᎯ ᏧᏪᏥ.</td>
+</tr>
+<tr class="even">
+<td>Na-ni-v-ye-no gi-lo-i U-ne-la-nv-hi U-da-nv-do tsu-na-ti-ni-do-hi, na-s-gi U-ne-la-nv-hi tsu-we-tsi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060815.png"><img src="060815.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.</td>
+</tr>
+<tr class="odd">
+<td>ᎥᏝᏰᏃ ᎠᏓᏅᏙ ᎠᏥᎾᏝᎢ ᏔᎵᏁ ᎡᏥᏁᎸᎯ ᏱᎩ, ᎾᏍᎩ ᎢᏥᎾᏰᎯᏍᏗᏱ; ᏧᏪᏥᏍᎩᏂ ᎢᎨᎬᏁᎸᎯ ᎤᎾᏓᏅᏙ ᎡᏥᏁᎸ, ᎾᏍᎩ ᎢᏛᏗᏍᎬ, ᎠᏆ! ᎡᏙᏓ! ᏥᏓᏗᏍᎪᎢ.</td>
+</tr>
+<tr class="even">
+<td>V-tla-ye-no A-da-nv-do a-tsi-na-tla-i ta-li-ne e-tsi-ne-lv-hi yi-gi, na-s-gi i-tsi-na-ye-hi-s-di-yi; tsu-we-tsi-s-gi-ni i-ge-gv-ne-lv-hi u-na-da-nv-do e-tsi-ne-lv, na-s-gi i-dv-di-s-gv, A-qua! E-do-da! tsi-da-di-s-go-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060816.png"><img src="060816.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>The Spirit itself beareth witness with our spirit, that we are the children of God:</td>
+</tr>
+<tr class="odd">
+<td>ᎠᏓᏅᏙᏰᏃ ᎤᏩᏒ ᏓᎵᎪᏁᎭ ᏗᎦᏓᏅᏙ ᎬᏂᎨᏒ ᎾᏅᏁᎲ, ᎾᏍᎩ ᎠᏴ ᎤᏁᎳᏅᎯ ᏧᏪᏥ ᎨᏒᎢ.</td>
+</tr>
+<tr class="even">
+<td>A-da-nv-do-ye-no u-wa-sv da-li-go-ne-ha di-ga-da-nv-do gv-ni-ge-sv na-nv-ne-hv, na-s-gi a-yv U-ne-la-nv-hi tsu-we-tsi ge-sv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060817.png"><img src="060817.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And if children, then heirs; heirs of God, and joint-heirs with Christ; if so be that we suffer with him, that we may be also glorified together.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᎴ ᎢᏳ ᏧᏪᏥ ᏱᎩ, ᎿᎭᏉ ᎢᎦᏘᏰᎯ ᏧᎬᏩᎶᏗ; ᎢᎦᏘᏰᏗ ᏧᎬᏩᎶᏗ ᎤᏁᎳᏅᎯ ᎤᏓᏁᏗ ᎨᏒᎢ, ᎠᎴ ᎦᎶᏁᏛ ᎢᏧᎳᎭ ᎢᎦᏘᏰᏗ; ᎢᏳᏃ ᎰᏩ ᏱᎦᏠᏯᏍᏗᎭ ᎠᎩᎵᏲᎬᎢ, ᎾᏍᏉ ᎢᎦᏠᏯᏍᏙᏗ ᎨᏎᏍᏗ ᎠᏥᎸᏉᏗᏍᎬᎢ.</td>
+</tr>
+<tr class="even">
+<td>A-le i-yu tsu-we-tsi yi-gi, hna-quo i-ga-ti-ye-hi tsu-gv-wa-lo-di; i-ga-ti-ye-di tsu-gv-wa-lo-di U-ne-la-nv-hi u-da-ne-di ge-sv-i, a-le Ga-lo-ne-dv i-tsu-la-ha i-ga-ti-ye-di; i-yu-no ho-wa yi-ga-tlo-ya-s-di-ha a-gi-li-yo-gv-i, na-s-quo i-ga-tlo-ya-s-do-di ge-se-s-di a-tsi-lv-quo-di-s-gv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060818.png"><img src="060818.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For I reckon that the sufferings of this present time are not worthy to be compared with the glory which shall be revealed in us.</td>
+</tr>
+<tr class="odd">
+<td>ᎦᏓᏅᏖᏍᎬᏰᏃ ᎯᎠ ᎾᏍᎩ ᎪᎯ ᎠᎩᎵᏲᎢᏍᏗ ᎨᏒ ᎥᏝ ᏗᎬᏟᎶᏍᏙᏗ ᏱᎩ ᎦᎸᏉᏗᏳ ᎨᏒ ᎾᏍᎩ ᎡᎩᎾᏄᎪᏫᏎᏗ ᎨᏒᎢ.</td>
+</tr>
+<tr class="even">
+<td>Ga-da-nv-te-s-gv-ye-no hi-a na-s-gi go-hi a-gi-li-yo-i-s-di ge-sv v-tla di-gv-tli-lo-s-do-di yi-gi ga-lv-quo-di-yu ge-sv na-s-gi e-gi-na-nu-go-wi-se-di ge-sv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060819.png"><img src="060819.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For the earnest expectation of the creature waiteth for the manifestation of the sons of God.</td>
+</tr>
+<tr class="odd">
+<td>ᎤᎵᏂᎩᏛᏰᏃ ᎤᏚᎩ ᎤᏩᏒ ᎠᎦᏁᎳᏅᎯ ᎨᏒ ᎠᎦᏘᏯ ᎨᏥᎾᏄᎪᏫᏒ ᎤᏁᎳᏅᎯ ᏧᏪᏥ.</td>
+</tr>
+<tr class="even">
+<td>U-li-ni-gi-dv-ye-no u-du-gi u-wa-sv a-ga-ne-la-nv-hi ge-sv a-ga-ti-ya ge-tsi-na-nu-go-wi-sv U-ne-la-nv-hi tsu-we-tsi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060820.png"><img src="060820.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,</td>
+</tr>
+<tr class="odd">
+<td>ᎠᎦᏁᎳᏅᎯᏰᏃ ᎠᏲᎩ ᎾᎬᏁᎴᎢ, ᎥᏝ ᎣᏏᏳ ᎤᏰᎸᏒ ᎢᏳᏍᏗ, ᎣᏏᏳᏍᎩᏂ ᎤᏰᎸᏅ ᎢᏳᏍᏗ ᎾᏍᎩ Ꮎ ᎾᏍᎩ ᎢᏳᏩᏁᎸᎯ, ᎤᏚᎩ ᎤᏮᏗᏱ ᎤᏰᎸᏅ,</td>
+</tr>
+<tr class="even">
+<td>A-ga-ne-la-nv-hi-ye-no a-yo-gi na-gv-ne-le-i, v-tla o-si-yu u-ye-lv-sv i-yu-s-di, o-si-yu-s-gi-ni u-ye-lv-nv i-yu-s-di na-s-gi na na-s-gi i-yu-wa-ne-lv-hi, u-du-gi u-wv-di-yi u-ye-lv-nv,</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060821.png"><img src="060821.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩ ᎠᎦᏁᎳᏅᎯ ᎤᏩᏒ ᎾᏍᏉ ᎤᏚᏓᎴᏍᏗᏱ ᎠᏲᎩ ᎨᏒ ᎤᎾᏝᎥᎢ, ᎦᎸᏉᏗᏳ ᏂᏗᎨᏥᎾᏝᎥᎾ ᎨᏒ ᎤᏁᎳᏅᎯ ᏧᏪᏥ ᎤᎾᏤᎵᎦ ᏫᏗᎨᏥᎪᏗᏱ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi a-ga-ne-la-nv-hi u-wa-sv na-s-quo u-du-da-le-s-di-yi a-yo-gi ge-sv u-na-tla-v-i, ga-lv-quo-di-yu ni-di-ge-tsi-na-tla-v-na ge-sv U-ne-la-nv-hi tsu-we-tsi u-na-tse-li-ga wi-di-ge-tsi-go-di-yi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060822.png"><img src="060822.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For we know that the whole creation groaneth and travaileth in pain together until now.</td>
+</tr>
+<tr class="odd">
+<td>ᎢᏗᎦᏔᎭᏰᏃ ᎾᏍᎩ ᎾᏂᎥ ᎨᎦᏁᎳᏅᎯ ᎨᏒ ᎢᏧᎳᎭ ᎤᏂᎵᏰᏗᏍᎬ ᎠᎴ ᎠᏂᎩᎵᏲᎬ ᎪᎯ ᎢᏯᏍᏗ.</td>
+</tr>
+<tr class="even">
+<td>I-di-ga-ta-ha-ye-no na-s-gi na-ni-v ge-ga-ne-la-nv-hi ge-sv i-tsu-la-ha u-ni-li-ye-di-s-gv a-le a-ni-gi-li-yo-gv go-hi i-ya-s-di.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060823.png"><img src="060823.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.</td>
+</tr>
+<tr class="odd">
+<td>ᎥᏝ ᎠᎴ ᎤᏅᏒᏉ, ᎢᎬᏒᏍᎩᏂ ᎾᏍᏉ ᎾᏍᎩ ᎢᎬᏱᏱ ᎤᎾᏄᎪᏫᏒᎯ ~ᎠᏓᏅᏙ ᏥᎨᎭ, ᎠᏴ ᎾᏍᏉ ᎢᎬᏒ ᎨᏒ ᎭᏫᏂ ᏕᎩᎵᏰᏗᎭ, ᎢᏗᎦᏘᏴ ᏧᏪᏥ ᎢᎨᎬᏁᏗ, ᎾᏍᎩ ᏗᏗᏰᎸ ᏧᎫᏴᏗᏱ ᏧᏭᏓᎴᏍᏗᏱ.</td>
+</tr>
+<tr class="even">
+<td>V-tla a-le u-nv-sv-quo, i-gv-sv-s-gi-ni na-s-quo na-s-gi i-gv-yi-yi u-na-nu-go-wi-sv-hi ~a-da-nv-do tsi-ge-ha, a-yv na-s-quo i-gv-sv ge-sv ha-wi-ni de-gi-li-ye-di-ha, i-di-ga-ti-yv tsu-we-tsi i-ge-gv-ne-di, na-s-gi di-di-ye-lv tsu-gu-yv-di-yi tsu-wu-da-le-s-di-yi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060824.png"><img src="060824.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?</td>
+</tr>
+<tr class="odd">
+<td>ᎤᏚᎩᏉᏰᏃ ᎢᎬᎭ ᎡᎩᏍᏕᎸᏗᏱ; ᎤᏚᎩᏍᎩᏂ ᎣᏩᏒ ᎠᎪᎲᎯ ᏥᎨᏐᎢ ᎥᏝ ᎤᏚᎩ ᏲᏩᏐᎢ; ᎪᎱᏍᏗᏰᏃ ᏨᎪᏩᏘᏍᎪᎢ, ᎦᏙᏃ ᎠᏏ ᎤᏚᎩ ᏱᎦᏲᏩᎭ?</td>
+</tr>
+<tr class="even">
+<td>U-du-gi-quo-ye-no i-gv-ha e-gi-s-de-lv-di-yi; u-du-gi-s-gi-ni o-wa-sv a-go-hv-hi tsi-ge-so-i v-tla u-du-gi yo-wa-so-i; Go-hu-s-di-ye-no tsv-go-wa-ti-s-go-i, ga-do-no a-si u-du-gi yi-ga-yo-wa-ha?</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060825.png"><img src="060825.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>But if we hope for that we see not, then do we with patience wait for it.</td>
+</tr>
+<tr class="odd">
+<td>ᎢᏳᏍᎩᏂ ᎢᎩᎪᎲᎯ ᏂᎨᏒᎾ ᎨᏒ ᎤᏚᎩ ᏱᎬᎭ, ᎿᎭᏉ ᏗᏛᏂᏗᏳ ᎢᏗᎦᏘᏲ ᎾᏍᎩ.</td>
+</tr>
+<tr class="even">
+<td>I-yu-s-gi-ni i-gi-go-hv-hi ni-ge-sv-na ge-sv u-du-gi yi-gv-ha, hna-quo di-dv-ni-di-yu i-di-ga-ti-yo na-s-gi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060826.png"><img src="060826.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩᏯ ᎾᏍᏉ ᎠᏓᏅᏙ ᎢᎩᏍᏕᎵᎭ ᏗᏗᏩᎾᎦᎳᎯᏳ ᎨᏒᎢ; ᎥᏝᏰᏃ ᏱᏗᎦᏔᎭ ᎢᏳᏍᏗ ᏚᏳᎪᏛ ᎨᏒ ᎢᎩᏔᏲᏍᏗᏱ ᎢᏓᏓᏙᎵᏍᏗᏍᎬᎢ; ᎠᏓᏅᏙᏍᎩᏂ ᎤᏩᏒ ᎢᎦᎵᏍᏗᏰᏓᏁᎭ ᎤᎵᏰᏗᏍᎬ ᎬᏗᎭ ᎾᏍᎩ ᎦᏁᎢᏍᏗ ᏂᎨᏒᎾ ᎨᏒᎢ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi-ya na-s-quo A-da-nv-do i-gi-s-de-li-ha di-di-wa-na-ga-la-hi-yu ge-sv-i; v-tla-ye-no yi-di-ga-ta-ha i-yu-s-di du-yu-go-dv ge-sv i-gi-ta-yo-s-di-yi i-da-da-do-li-s-di-s-gv-i; A-da-nv-do-s-gi-ni u-wa-sv i-ga-li-s-di-ye-da-ne-ha u-li-ye-di-s-gv gv-di-ha na-s-gi ga-ne-i-s-di ni-ge-sv-na ge-sv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060827.png"><img src="060827.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᎴ ᎾᏍᎩ Ꮎ ᏗᎪᎵᏰᏍᏗ ᏧᎾᏫ ᎠᎦᏔᎭ ᏄᏍᏛ ᎠᏓᏅᏖᎵᏙᎲ ᎠᏓᏅᏙ ᏅᏗᎦᎵᏍᏙᏗ ᎤᎾᏓᏅᏘ ᏓᎵᏍᏗᏰᏓᏁᎲ ᎾᏍᎩᏯ ᎤᏁᎳᏅᎯ ᎣᏏᏳ ᎤᏰᎸᏗ ᎨᏒᎢ.</td>
+</tr>
+<tr class="even">
+<td>A-le na-s-gi na di-go-li-ye-s-di tsu-na-wi a-ga-ta-ha nu-s-dv a-da-nv-te-li-do-hv A-da-nv-do nv-di-ga-li-s-do-di u-na-da-nv-ti da-li-s-di-ye-da-ne-hv na-s-gi-ya U-ne-la-nv-hi o-si-yu u-ye-lv-di ge-sv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060828.png"><img src="060828.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And we know that all things work together for good to them that love God, to them who are the called according to his purpose.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᎴ ᎢᏗᎦᏔᎭ ᎾᏍᎩ ᏂᎦᎥ ᏂᏚᎵᏍᏔᏂᏙᎲ ᎤᎾᏖᏆᎶᏒ ᎣᏍᏛ ᎢᏳᎾᎵᏍᏓᏁᏗᏱ ᏚᏂᎸᏫᏍᏓᏁᎲ ᎤᏁᎳᏅᎯ ᎤᏂᎨᏳᎯ, ᎾᏍᎩ Ꮎ ᎨᏥᏯᏅᏛ ᏥᎩ ᎾᏍᎩᏯ ᎤᏓᏅᏖᎸᎢ.</td>
+</tr>
+<tr class="even">
+<td>A-le i-di-ga-ta-ha na-s-gi ni-ga-v ni-du-li-s-ta-ni-do-hv u-na-te-qua-lo-sv o-s-dv i-yu-na-li-s-da-ne-di-yi du-ni-lv-wi-s-da-ne-hv U-ne-la-nv-hi u-ni-ge-yu-hi, na-s-gi na ge-tsi-ya-nv-dv tsi-gi na-s-gi-ya u-da-nv-te-lv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060829.png"><img src="060829.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩᏰᏃ ᎦᏳᎳ ᏥᏂᏓᎦᏔᎰᎢ, ᎾᏍᎩ ᎾᏍᏉ ᏂᏚᏑᏰᏐ ᎤᏪᏥ ᏄᏍᏛ ᎾᏍᎩᏯ ᎢᏳᎾᎵᏍᏙᏗᏱ, ᎾᏍᎩ ᎢᎬᏱ ᎡᎯ ᎢᏳᎵᏍᏙᏗᏱ ᎤᏂᏣᏘ ᎠᎾᎵᏅᏟ ᎠᏁᎲᎢ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi-ye-no ga-yu-la tsi-ni-da-ga-ta-ho-i, na-s-gi na-s-quo ni-du-su-ye-so U-we-tsi nu-s-dv na-s-gi-ya i-yu-na-li-s-do-di-yi, na-s-gi i-gv-yi e-hi i-yu-li-s-do-di-yi u-ni-tsa-ti a-na-li-nv-tli a-ne-hv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060830.png"><img src="060830.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩᏃ ᎦᏳᎳ ᏥᏂᏚᏑᏰᏐᎢ ᎾᏍᎩ ᎾᏍᏉ ᏚᏯᏅᎮᎢ; ᎠᎴ ᎾᏍᎩ ᏧᏯᏅᏛ ᎨᏒᎢ, ᎾᏍᎩ ᎾᏍᏉ ᏚᏭᏓᎴᏎᎢ; ᎠᎴ ᎾᏍᎩ ᏧᏭᏓᎴᏛ ᎨᏒ, ᎾᏍᎩ ᎾᏍᏉ ᎦᎸᏉᏗᏳ ᏂᏚᏩᏁᎴᎢ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi-no ga-yu-la tsi-ni-du-su-ye-so-i na-s-gi na-s-quo du-ya-nv-he-i; a-le na-s-gi tsu-ya-nv-dv ge-sv-i, na-s-gi na-s-quo du-wu-da-le-se-i; a-le na-s-gi tsu-wu-da-le-dv ge-sv, na-s-gi na-s-quo ga-lv-quo-di-yu ni-du-wa-ne-le-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060831.png"><img src="060831.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>What shall we then say to these things? If God be for us, who can be against us?</td>
+</tr>
+<tr class="odd">
+<td>ᎦᏙᏃ ᏓᏓᏛᏂ ᎯᎠ ᎾᏍᎩ ᏥᏄᏍᏗ? ᎢᏳᏃ ᎤᏁᎳᏅᎯ ᏱᎩᏍᏕᎵᎭ ᎦᎪ ᏱᎦᏡᏓ?</td>
+</tr>
+<tr class="even">
+<td>Ga-do-no da-da-dv-ni hi-a na-s-gi tsi-nu-s-di? i-yu-no U-ne-la-nv-hi yi-gi-s-de-li-ha ga-go yi-ga-tlu-da?</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060832.png"><img src="060832.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩ Ꮎ ᏄᎨᏳᏅᎾ ᏥᎨᏎ ᎤᏩᏒ ᎤᏪᏥ, ᏥᏚᏲᏎᏉᏍᎩᏂ ᎠᏴ ᏂᏗᎥ ᎢᎩᏍᏕᎵᏍᎬᎢ, ᎦᏙ ᏱᎦᎵᏍᏙᏓ ᎾᏍᎩ ᏕᎩᏲᎯᏎᎲ ᎠᏎᏉ ᏗᎨᎩᏲᎯᏎᏗ ᏂᎨᏒᎾ ᏱᏂᎦᎵᏍᏓ ᏂᎦᏗᏳ ᎪᎱᏍᏗ?</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi na nu-ge-yu-nv-na tsi-ge-se u-wa-sv U-we-tsi, tsi-du-yo-se-quo-s-gi-ni a-yv ni-di-v i-gi-s-de-li-s-gv-i, ga-do yi-ga-li-s-do-da na-s-gi de-gi-yo-hi-se-hv a-se-quo di-ge-gi-yo-hi-se-di ni-ge-sv-na yi-ni-ga-li-s-da ni-ga-di-yu go-hu-s-di?</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060833.png"><img src="060833.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Who shall lay any thing to the charge of God's elect? It is God that justifieth.</td>
+</tr>
+<tr class="odd">
+<td>ᎦᎪ ᎤᏂᏍᎦᏅᏨ ᏙᏓᎫᎯᏍᏔᏂ ᎤᎾᎴᏅᎯ ᏧᏑᏰᏛ? ᏥᎪ ᎤᏁᎳᏅᎯ, ᎾᏍᎩ ᎤᏄᏓᎴᏍᎩ?</td>
+</tr>
+<tr class="even">
+<td>Ga-go u-ni-s-ga-nv-tsv do-da-gu-hi-s-ta-ni U-na-le-nv-hi tsu-su-ye-dv? tsi-go U-ne-la-nv-hi, na-s-gi u-nu-da-le-s-gi?</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060834.png"><img src="060834.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.</td>
+</tr>
+<tr class="odd">
+<td>ᎦᎪ ᏧᏄᎪᏓᏁᎯ? ᎦᎶᏁᏛᏍᎪ, ᎾᏍᎩ ᏧᏂᎱᏎᎢ, ᎥᎥ, ᎠᎴ ᎾᏍᏉ ᎾᏍᎩ ᏥᏚᎴᎯᏌᏅ, ᎾᏍᎩ ᎾᏍᏉ ᎤᏁᎳᏅᎯ ᎠᎦᏗᏏᏗᏢ ᏧᏬᎳ, ᎾᏍᎩ ᎾᏍᏉ ᏥᎦᎵᏍᏗᏰᏓᏁᎭ?</td>
+</tr>
+<tr class="even">
+<td>Ga-go tsu-nu-go-da-ne-hi? Ga-lo-ne-dv-s-go, na-s-gi tsu-ni-hu-se-i, v-v, a-le na-s-quo na-s-gi tsi-du-le-hi-sa-nv, na-s-gi na-s-quo U-ne-la-nv-hi a-ga-di-si-di-tlv tsu-wo-la, na-s-gi na-s-quo tsi-ga-li-s-di-ye-da-ne-ha?</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060835.png"><img src="060835.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?</td>
+</tr>
+<tr class="odd">
+<td>ᎦᎪ ᎢᏴᏛ ᏅᏓᎬᏁᎵ ᎦᎶᏁᏛ ᎢᎩᎨᏒᎢ? ᏥᎪ ᎠᎩᎵᏲᎢᏍᏗ ᎨᏒᎢ, ᎠᎴ ᎤᏪᎵᎯᏍᏗ ᎠᏓᏅᏓᏗᏍᏗ ᎨᏒᎢ, ᎠᎴ ᎤᏲ ᎢᏴᏓᏛᏁᏗ ᎨᏒᎢ, ᎠᎴ ᎤᏓᎪᏄᎶᎯᏍᏗ ᎨᏒᎢ, ᎠᎴ ᏗᎩᏰᎸᎭ ᎨᏒᎢ, ᎠᎴ ᎤᎾᏰᎯᏍᏗ ᎨᏒᎢ, ᎠᎴ ᎠᏰᎳᏍᏗ-ᎦᏅᎯᏛ?</td>
+</tr>
+<tr class="even">
+<td>Ga-go i-yv-dv nv-da-gv-ne-li Ga-lo-ne-dv i-gi-ge-sv-i? tsi-go a-gi-li-yo-i-s-di ge-sv-i, a-le u-we-li-hi-s-di a-da-nv-da-di-s-di ge-sv-i, a-le u-yo i-yv-da-dv-ne-di ge-sv-i, a-le u-da-go-nu-lo-hi-s-di ge-sv-i, a-le di-gi-ye-lv-ha ge-sv-i, a-le u-na-ye-hi-s-di ge-sv-i, a-le a-ye-la-s-di--ga-nv-hi-dv?</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060836.png"><img src="060836.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩᏯ ᎯᎠ ᏥᏂᎬᏅ ᏥᎪᏪᎳ, ᏂᎯ ᎨᏒ ᏅᏗᎦᎵᏍᏙᏗᎭ ᏙᎩᎢᎭ ᏂᎪᎯᎸᎢ; ᎤᏂᏃᏕᎾᏉ ᏗᎯᏍᏗ ᎾᏍᎩᏯ ᎣᎩᏰᎸᎠ;</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi-ya hi-a tsi-ni-gv-nv tsi-go-we-la, Ni-hi ge-sv nv-di-ga-li-s-do-di-ha do-gi-i-ha ni-go-hi-lv-i; u-ni-no-de-na-quo di-hi-s-di na-s-gi-ya o-gi-ye-lv-a;</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060837.png"><img src="060837.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Nay, in all these things we are more than conquerors through him that loved us.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᏎᏃ ᎯᎠ ᎾᏍᎩ ᏂᎦᏛ ᏧᏓᎴᏅᏛ ᎨᏒ ᎢᏓᏓᏎᎪᎩᏍᎩ ᎠᎴ ᎤᏟ ᎢᎦᎢ, ᎾᏍᎩ Ꮎ ᎢᎩᎨᏳᎯᏳ ᎢᏳᎵᏍᏔᏅᎯ ᏥᎩ ᎢᏳᏩᏂᏌᏛ.</td>
+</tr>
+<tr class="even">
+<td>A-se-no hi-a na-s-gi ni-ga-dv tsu-da-le-nv-dv ge-sv i-da-da-se-go-gi-s-gi a-le u-tli i-ga-i, na-s-gi na i-gi-ge-yu-hi-yu i-yu-li-s-ta-nv-hi tsi-gi i-yu-wa-ni-sa-dv.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060838.png"><img src="060838.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,</td>
+</tr>
+<tr class="odd">
+<td>ᎤᎵᏂᎩᏛᏰᏃ ᎠᏉᎯᏳᎭ, ᎾᏍᎩ ᎥᏝ ᎠᏲᎱᎯᏍᏗ ᎨᏒᎢ, ᎠᎴ ᎠᏛᏂᏗᏍᏗ ᎨᏒᎢ, ᎠᎴ ᏗᏂᎧᎿᎭᏩᏗᏙᎯ, ᎠᎴ ᏄᏂᎬᏫᏳᏌᏕᎩ, ᎠᎴ ᎨᏥᎸᏉᏗ, ᎠᎴ ᎪᎱᏍᏗ ᎪᎯ ᏤᎭ, ᎠᎴ ᎪᎱᏍᏗ ᎠᏏ ᎤᎾᏄᎪᎢᏍᏗ ᏥᎩ,</td>
+</tr>
+<tr class="even">
+<td>U-li-ni-gi-dv-ye-no a-quo-hi-yu-ha, na-s-gi v-tla a-yo-hu-hi-s-di ge-sv-i, a-le a-dv-ni-di-s-di ge-sv-i, a-le di-ni-ka-hna-wa-di-do-hi, a-le nu-ni-gv-wi-yu-sa-de-gi, a-le ge-tsi-lv-quo-di, a-le go-hu-s-di go-hi tse-ha, a-le go-hu-s-di a-si u-na-nu-go-i-s-di tsi-gi,</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="060839.png"><img src="060839.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.</td>
+</tr>
+<tr class="odd">
+<td>ᎥᏝ ᎠᎴ ᎦᎸᎳᏗᏳ ᎨᏒᎢ, ᎠᎴ ᎭᏫᏂᏳ ᎨᏒᎢ, ᎥᏝ ᎠᎴ ᏅᏩᏓᎴ ᎠᏁᎳᏅᎯ ᎨᏒᎢ, ᏰᎵ ᎢᏴᏛ ᎢᎬᏩᏁᏗ ᏱᎨᏎᏍᏗ ᎤᏁᎳᏅᎯ ᎢᎩᎨᏳᏒᎢ, ᎾᏍᎩ ᎦᎶᏁᏛ ᏥᏌ ᎤᎬᏫᏳᎯ ᎢᎦᏤᎵ ᏅᏓᏳᏓᎴᏅᎯ ᏥᎩ.</td>
+</tr>
+<tr class="even">
+<td>V-tla a-le ga-lv-la-di-yu ge-sv-i, a-le ha-wi-ni-yu ge-sv-i, v-tla a-le nv-wa-da-le a-ne-la-nv-hi ge-sv-i, ye-li i-yv-dv i-gv-wa-ne-di yi-ge-se-s-di U-ne-la-nv-hi i-gi-ge-yu-sv-i, na-s-gi Ga-lo-ne-dv Tsi-sa U-gv-wi-yu-hi i-ga-tse-li nv-da-yu-da-le-nv-hi tsi-gi.</td>
+</tr>
+</tbody>
+</table>
+
+![](06_.png)

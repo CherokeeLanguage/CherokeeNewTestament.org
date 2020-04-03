@@ -1,0 +1,443 @@
++++
+draft=false
+date = 2014-12-18T21:11:07Z
+title = "Philemon - Chapter 1 - Cherokee New Testament"
+weight = 1418955067
+
+[taxonomies]
+
+authors = ["Timothy Legg"]
+categories = []
+tags = []
+
+[extra]
++++
+![](180000.png)
+![](180100.png)
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180101.png"><img src="180101.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,</td>
+</tr>
+<tr class="odd">
+<td>ᎠᏴ, ᏉᎳ, ᏥᏴᎩ ᏥᏌ ᎦᎶᏁᏛ ᎠᎩᏍᏛᏗᏍᎬᎢ, ᎠᎴ ᏗᎹᏗ ᎢᎩᏅᏟ, ᏫᏍᏛᏲᏪᎳᏏ ᏆᎵᎹᏂ ᎤᏣᏘ ᎢᏍᏛᎨᏳᎢ, ᎠᎴ ᎤᏠᏱ ᏗᎩᎸᏫᏍᏓᏁᎯ,</td>
+</tr>
+<tr class="even">
+<td>A-yv, Quo-la, tsi-yv-gi Tsi-sa Ga-lo-ne-dv a-gi-s-dv-di-s-gv-i, a-le Di-ma-di i-gi-nv-tli, wi-s-dv-yo-we-la-si Qua-li-ma-ni u-tsa-ti i-s-dv-ge-yu-i, a-le u-tlo-yi di-gi-lv-wi-s-da-ne-hi,</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180102.png"><img src="180102.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:</td>
+</tr>
+<tr class="odd">
+<td>ᎠᎴ ᎢᏍᏛᎨᏳᎢ ᎠᏈᏯ, ᎠᎴ ᎠᎩᏆ, ᎢᏧᎳᎭ ᎢᏗᏩᏫᏍᎩ, ᎠᎴ ᏧᎾᏁᎶᏗᎤᎾᏓᏈᎬ ᎯᏁᎸᎢ;</td>
+</tr>
+<tr class="even">
+<td>A-le i-s-dv-ge-yu-i A-qui-ya, a-le A-gi-qua, i-tsu-la-ha i-di-wa-wi-s-gi, a-le tsu-na-ne-lo-di-u-na-da-qui-gv hi-ne-lv-i;</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180103.png"><img src="180103.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Grace to you, and peace, from God our Father and the Lord Jesus Christ.</td>
+</tr>
+<tr class="odd">
+<td>ᎬᏩᎦᏘᏯ ᎤᏓᏙᎵᏍᏗ ᎨᏒ ᎠᎴ ᏅᏩᏙᎯᏯᏛ ᏕᏥᎧᎿᎭᏩᏗᏙᎮᏍᏗ ᏅᏓᏳᎾᎵᏍᎪᎸᏔᏅᎯ ᎤᏁᎳᏅᎯ ᎢᎩᏙᏓ ᎠᎴ ᎤᎬᏫᏳᎯ ᏥᏌ ᎦᎶᏁᏛ.</td>
+</tr>
+<tr class="even">
+<td>Gv-wa-ga-ti-ya u-da-do-li-s-di ge-sv a-le nv-wa-do-hi-ya-dv de-tsi-ka-hna-wa-di-do-he-s-di nv-da-yu-na-li-s-go-lv-ta-nv-hi U-ne-la-nv-hi I-gi-do-da a-le U-gv-wi-yu-hi Tsi-sa Ga-lo-ne-dv.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180104.png"><img src="180104.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>I thank my God, making mention of thee always in my prayers,</td>
+</tr>
+<tr class="odd">
+<td>ᏥᏯᎵᎡᎵᏤᎰ ᎠᏆᏁᎳᏅᎯ ᎬᏁᎢᏍᏗᏍᎪ ᏂᎪᎯᎸ ᎦᏓᏙᎵᏍᏗᏍᎬᎢ,</td>
+</tr>
+<tr class="even">
+<td>Tsi-ya-li-e-li-tse-ho A-qua-ne-la-nv-hi gv-ne-i-s-di-s-go ni-go-hi-lv ga-da-do-li-s-di-s-gv-i,</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180105.png"><img src="180105.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;</td>
+</tr>
+<tr class="odd">
+<td>ᎦᏛᎩᏍᎬ ᏣᏓᎨᏳᏒ ᎠᎴ ᏦᎯᏳᏒᎢ, ᎾᏍᎩ ᏥᎨᏳᎭ ᎤᎬᏫᏳᎯ ᏥᏌ, ᎠᎴ ᎾᏂᎥ ᎤᎾᏓᏅᏘ ᏥᏕᎯᎨᏳᎭ;</td>
+</tr>
+<tr class="even">
+<td>Ga-dv-gi-s-gv tsa-da-ge-yu-sv a-le tso-hi-yu-sv-i, na-s-gi tsi-ge-yu-ha U-gv-wi-yu-hi Tsi-sa, a-le na-ni-v u-na-da-nv-ti tsi-de-hi-ge-yu-ha;</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180106.png"><img src="180106.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩ Ꮎ ᏦᎯᏳᏒ ᏤᎳᏗᏍᏗᏍᎬᎢ ᎾᏍᎩ ᏱᏂᎬᏂᏒ ᎬᏂᎨᏒ ᏱᏂᎦᎵᏍᏓ ᏂᎦᎥ ᎣᏍᏛ ᎨᏒ ᎢᏥᏯᎥᎢ ᏥᏌ ᎦᎶᏁᏛ ᏅᏗᎦᎵᏍᏙᏗᏍᎬᎢ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi na tso-hi-yu-sv tse-la-di-s-di-s-gv-i na-s-gi yi-ni-gv-ni-sv gv-ni-ge-sv yi-ni-ga-li-s-da ni-ga-v o-s-dv ge-sv i-tsi-ya-v-i Tsi-sa Ga-lo-ne-dv nv-di-ga-li-s-do-di-s-gv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180107.png"><img src="180107.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.</td>
+</tr>
+<tr class="odd">
+<td>ᎤᏣᏘᏰᏃ ᎤᎵᎮᎵᏍᏗ ᎣᎨᎭ ᎠᎴ ᎤᎦᎵᏍᏗ ᎠᏓᏅᏓᏗᏍᏗ ᎨᏒ ᏣᏓᎨᏳᏒ ᎢᏳᏍᏗ, ᏛᏗᎦᎵᏍᏙᏗᎭ ᎤᎾᏓᏅᏘ ᏧᏂᎾᏫ ᏕᎯᎦᎵᏍᏓᏕᎲᎢ, ᎥᎩᏅᏟ.</td>
+</tr>
+<tr class="even">
+<td>U-tsa-ti-ye-no u-li-he-li-s-di o-ge-ha a-le u-ga-li-s-di a-da-nv-da-di-s-di ge-sv tsa-da-ge-yu-sv i-yu-s-di, dv-di-ga-li-s-do-di-ha u-na-da-nv-ti tsu-ni-na-wi de-hi-ga-li-s-da-de-hv-i, v-gi-nv-tli.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180108.png"><img src="180108.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,</td>
+</tr>
+<tr class="odd">
+<td>ᎤᏙᎯᏳᎯᏍᎩᏂᏃᏅ ᎤᏣᏘ ᎠᎩᎭ ᎦᎶᏁᏛ ᎠᎩᏁᎸᎢ, ᎾᏍᎩ ᎬᏁᏤᎲ ᏥᏚᏳᎪᏗ ᎢᏣᏛᏁᏗᏱ;</td>
+</tr>
+<tr class="even">
+<td>U-do-hi-yu-hi-s-gi-ni-no-nv u-tsa-ti a-gi-ha Ga-lo-ne-dv a-gi-ne-lv-i, na-s-gi gv-ne-tse-hv tsi-du-yu-go-di i-tsa-dv-ne-di-yi;</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180109.png"><img src="180109.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Yet for love's sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᏎᏃ ᏍᎩᎨᏳᎯᏳ ᎨᏒ ᏅᏗᎦᎵᏍᏙᏗᎭ ᎤᏟ ᏥᏰᎸᏍᎦ ᎬᏍᏗᏰᏙᏗᏱ, ᏉᎳ ᎤᏛᏐᏅᎯ ᎢᏯᏆᏍᏗ ᏥᎩ, ᎠᎴ ᎪᎯ ᎨᏒ ᎠᏴᎩ, ᏥᏌ ᎦᎶᏁᏛ ᎠᎩᏍᏛᏗᏍᎬᎢ.</td>
+</tr>
+<tr class="even">
+<td>A-se-no s-gi-ge-yu-hi-yu ge-sv nv-di-ga-li-s-do-di-ha u-tli tsi-ye-lv-s-ga gv-s-di-ye-do-di-yi, Quo-la u-dv-so-nv-hi i-ya-qua-s-di tsi-gi, a-le go-hi ge-sv a-yv-gi, Tsi-sa Ga-lo-ne-dv a-gi-s-dv-di-s-gv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180110.png"><img src="180110.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>I beseech thee for my son Onesimus, whom I have begotten in my bonds:</td>
+</tr>
+<tr class="odd">
+<td>ᎬᏍᏗᏰᏗᎭ ᎠᏇᏥ ᎣᏂᏏᎹ ᎤᎬᏩᎵ ᎾᏍᎩ ᎥᏆᎸᎢᏛ ᎨᏒ ᎠᏆᏕᏁᎸᎯ ᏥᎩ.</td>
+</tr>
+<tr class="even">
+<td>Gv-s-di-ye-di-ha a-que-tsi O-ni-si-ma u-gv-wa-li na-s-gi v-qua-lv-i-dv ge-sv a-qua-de-ne-lv-hi tsi-gi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180111.png"><img src="180111.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Which in time past was to thee unprofitable, but now profitable to thee and to me:</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩ ᏧᏩᎫᏔᏅᏒ ᏂᏣᏍᏕᎵᏍᎬᎾ ᏥᎨᏒᎩ, ᎪᎯᏍᎩᏂ ᏥᎩ ᏣᏍᏕᎵᏍᎩ, ᎠᎴ ᎠᏴ ᎠᎩᏍᏕᎵᏍᎩ;</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi tsu-wa-gu-ta-nv-sv ni-tsa-s-de-li-s-gv-na tsi-ge-sv-gi, go-hi-s-gi-ni tsi-gi tsa-s-de-li-s-gi, a-le a-yv a-gi-s-de-li-s-gi;</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180112.png"><img src="180112.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Whom I have sent again: thou therefore receive him, that is, mine own bowels:</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩ ᏔᎵᏁ ᎥᏥᏅᎵ; ᎾᏍᎩ ᎢᏳᏍᏗ ᏂᎯ ᏕᎯᏯᏓᏂᎸᏨᎭ, ᎾᏍᎩ ᎠᏋᏒ ᎠᎩᎾᏫ ᏥᎩ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi ta-li-ne v-tsi-nv-li; na-s-gi i-yu-s-di ni-hi de-hi-ya-da-ni-lv-tsv-ha, na-s-gi a-quv-sv a-gi-na-wi tsi-gi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180113.png"><img src="180113.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩ ᎠᏆᏚᎵᏍᎬᎩ ᏥᏯᎧᎯᏯᏍᏗᏱ ᎠᏂ ᎨᏙᎲᎢ, ᎾᏍᎩ ᏂᎯ ᏍᎩᏍᏕᎸᎯᏓᏍᏗ ᎨᏒ ᎠᎩᏍᏕᎸᎯᏓᏍᏗᏱ ᎥᏆᎸᎢᏛ ᎨᏒ ᎣᏍᏛ ᎧᏃᎮᏛ ᎠᎩᏍᏛᏗᏍᎬᎢ;</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi a-qua-du-li-s-gv-gi tsi-ya-ka-hi-ya-s-di-yi a-ni ge-do-hv-i, na-s-gi ni-hi s-gi-s-de-lv-hi-da-s-di ge-sv a-gi-s-de-lv-hi-da-s-di-yi v-qua-lv-i-dv ge-sv o-s-dv ka-no-he-dv a-gi-s-dv-di-s-gv-i;</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180114.png"><img src="180114.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᏎᏃ ᏂᎯ ᎣᏏᏳ ᏂᏣᏰᎸᏅᎾ ᎥᏝ ᏯᏆᏚᎸᎮ ᎪᎱᏍᏗ ᎠᏆᏛᏁᏗᏱ; ᎾᏍᎩ ᎣᏍᏛ ᏂᏍᏆᏛᏁᎲ ᎣᏏᏳ ᏣᏰᎸᏅ ᎬᏂᎨᏒ ᎢᏳᎵᏍᏙᏗᏱ, ᎥᏝᏃ ᎾᏍᎩ ᎠᏎ ᎢᏣᏛᏁᏗᏱ ᏂᏣᎵᏍᏓᏁᎲᎢ.</td>
+</tr>
+<tr class="even">
+<td>A-se-no ni-hi o-si-yu ni-tsa-ye-lv-nv-na v-tla ya-qua-du-lv-he go-hu-s-di a-qua-dv-ne-di-yi; na-s-gi o-s-dv ni-s-qua-dv-ne-hv o-si-yu tsa-ye-lv-nv gv-ni-ge-sv i-yu-li-s-do-di-yi, v-tla-no na-s-gi a-se i-tsa-dv-ne-di-yi ni-tsa-li-s-da-ne-hv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180115.png"><img src="180115.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>For perhaps he therefore departed for a season, that thou shouldest receive him for ever;</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩᏰᏃ ᎢᏳᏍᏗ ᏱᎩ ᏞᎦ ᏳᏓᏅᏒ ᎾᏍᎩ ᏘᏯᏓᏂᎸᎢᏍᏗ ᏂᎪᎯᎸ ᎤᏕᏗᏱ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi-ye-no i-yu-s-di yi-gi tle-ga yu-da-nv-sv na-s-gi ti-ya-da-ni-lv-i-s-di ni-go-hi-lv u-de-di-yi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180116.png"><img src="180116.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?</td>
+</tr>
+<tr class="odd">
+<td>ᎥᏝ ᎿᎭᏉ ᎠᏥᏅᏏᏓᏍᏗ ᎾᏍᎩᏯᎢ, ᎤᏟᏍᎩᏂ ᎦᎸᏉᏗᏳ ᎡᏍᎦᏉ ᎠᏥᏅᏏᏓᏍᏗ, ᎣᏅᏟ ᎠᎨᏳᎯ ᎾᏍᎩᏯᎢ, ᎠᏴ Ꮀ ᎤᎬᏫᏳᎭ ᏥᎨᏳᎢ, ᏂᎯᏍᎩᏂ ᏂᎦᎥ ᎤᏟᎯᏳ ᎯᎨᏳᎢ, ᎾᏍᎩ Ꮎ ᎤᏇᏓᎵ ᎨᏒ ᎠᎴ ᎤᎬᏫᏳᎯ ᏕᏍᏓᏁᎶᏛᎢ?</td>
+</tr>
+<tr class="even">
+<td>V-tla hna-quo a-tsi-nv-si-da-s-di na-s-gi-ya-i, u-tli-s-gi-ni ga-lv-quo-di-yu e-s-ga-quo a-tsi-nv-si-da-s-di, o-nv-tli a-ge-yu-hi na-s-gi-ya-i, a-yv ho u-gv-wi-yu-ha tsi-ge-yu-i, ni-hi-s-gi-ni ni-ga-v u-tli-hi-yu hi-ge-yu-i, na-s-gi na u-que-da-li ge-sv a-le U-gv-wi-yu-hi de-s-da-ne-lo-dv-i?</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180117.png"><img src="180117.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>If thou count me therefore a partner, receive him as myself.</td>
+</tr>
+<tr class="odd">
+<td>ᎾᏍᎩ ᎢᏳᏍᏗ ᎢᏳᏃ ᎣᎩᎾᏖᏉᎶᎯ ᏍᏇᎵᏎᎮᏍᏗ, ᏕᎯᏯᏓᏂᎸᏨᎭ ᎠᏴ ᏥᏕᏍᏆᏓᏂᎸᎪ ᎾᏍᎩᏯᎢ.</td>
+</tr>
+<tr class="even">
+<td>Na-s-gi i-yu-s-di i-yu-no o-gi-na-te-quo-lo-hi s-que-li-se-he-s-di, de-hi-ya-da-ni-lv-tsv-ha a-yv tsi-de-s-qua-da-ni-lv-go na-s-gi-ya-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180118.png"><img src="180118.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>If he hath wronged thee, or oweth thee ought, put that on mine account;</td>
+</tr>
+<tr class="odd">
+<td>ᎢᏳᏃ ᎤᏣᏘᏂ ᏂᏣᏛᏁᎴᏍᏗ, ᎠᎴ ᎯᏚᎨᏍᏕ, ᎠᏴᏉ ᎠᏆᎫᏴᏗ ᏅᏁᎸᎭ;</td>
+</tr>
+<tr class="even">
+<td>I-yu-no u-tsa-ti-ni ni-tsa-dv-ne-le-s-di, a-le hi-du-ge-s-de, a-yv-quo a-qua-gu-yv-di nv-ne-lv-ha;</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180119.png"><img src="180119.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᏴ ᏉᎳ ᎠᏋᏒ ᎠᏉᏰᏃ ᎬᏓ ᎪᏪᎸᎦ, ᎠᏴ ᏓᎦᎫᏴᎯ; ᎥᏝᏍᎩᏂᏃᏅ ᏨᏒ ᎨᏒ ᎾᏍᏉ ᎬᏚᎦ ᏗᏍᏆᏓᏲᎯᏎᏗᏱ ᏱᎬᏲᏎᎭ.</td>
+</tr>
+<tr class="even">
+<td>A-yv Quo-la a-quv-sv a-quo-ye-no gv-da go-we-lv-ga, a-yv da-ga-gu-yv-hi; v-tla-s-gi-ni-no-nv tsv-sv ge-sv na-s-quo gv-du-ga di-s-qua-da-yo-hi-se-di-yi yi-gv-yo-se-ha.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180120.png"><img src="180120.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.</td>
+</tr>
+<tr class="odd">
+<td>ᎥᎥ, ᏗᎾᏓᏅᏟ, ᎤᎵᎮᏍᏗ ᏍᏆᏓᏅᏓᏗᏍᏓ ᎤᎬᏫᏳᎯ ᎢᏳᏩᏂᏌᏛ; ᎯᎦᎵᏍᏓᏓᏉ ᎠᎩᎾᏫ ᎤᎬᏫᏳᎯ ᏕᎾᏁᎶᏛᎢ.</td>
+</tr>
+<tr class="even">
+<td>V-v, di-na-da-nv-tli, u-li-he-s-di s-qua-da-nv-da-di-s-da U-gv-wi-yu-hi i-yu-wa-ni-sa-dv; hi-ga-li-s-da-da-quo a-gi-na-wi U-gv-wi-yu-hi de-na-ne-lo-dv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180121.png"><img src="180121.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say.</td>
+</tr>
+<tr class="odd">
+<td>ᏦᎯᏳᏒ ᎠᏆᎵᏍᎦᏍᏙᏛ ᏫᎬᏲᏪᎳᏁᎸᎩ, ᏥᎦᏔᎲᎩ ᎾᏍᏉ ᏣᎶᏒᏍᏙᏗᏱ ᎨᏒ ᎿᎭᏛᏁᎲ ᏄᏍᏛ ᎬᏁᏤᎲᎢ.</td>
+</tr>
+<tr class="even">
+<td>Tso-hi-yu-sv a-qua-li-s-ga-s-do-dv wi-gv-yo-we-la-ne-lv-gi, tsi-ga-ta-hv-gi na-s-quo tsa-lo-sv-s-do-di-yi ge-sv hna-dv-ne-hv nu-s-dv gv-ne-tse-hv-i.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180122.png"><img src="180122.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.</td>
+</tr>
+<tr class="odd">
+<td>ᎠᎴ ᎾᏍᏉ ᏍᏆᏛᏅᎢᏍᏓᏁᎸᎭ ᏍᎩᏍᏆᏂᎪᏙᏗᏱ; ᎤᏚᎩᏰᏃ ᎠᏋᎭ ᎢᏣᏓᏙᎵᏍᏗᏍᎬ ᎢᏳᏩᏂᏐᏗᏱ ᏔᎵᏁ ᏫᏨᎷᏤᏗᏱ.</td>
+</tr>
+<tr class="even">
+<td>A-le na-s-quo s-qua-dv-nv-i-s-da-ne-lv-ha s-gi-s-qua-ni-go-do-di-yi; u-du-gi-ye-no a-quv-ha i-tsa-da-do-li-s-di-s-gv i-yu-wa-ni-so-di-yi ta-li-ne wi-tsv-lu-tse-di-yi.</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180123.png"><img src="180123.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>There salute thee Epaphras, my fellowprisoner in Christ Jesus;</td>
+</tr>
+<tr class="odd">
+<td>ᏫᎨᏣᏲᎵᎦ ᎡᎦᏉ, ᏗᏧᎳᎭ ᎣᏍᏗᏴᎩ ᎦᎶᏁᏛ ᏥᏌ ᎣᎩᏂᏍᏛᏗᏍᎬᎢ;</td>
+</tr>
+<tr class="even">
+<td>Wi-ge-tsa-yo-li-ga E-ga-quo, di-tsu-la-ha o-s-di-yv-gi Ga-lo-ne-dv Tsi-sa o-gi-ni-s-dv-di-s-gv-i;</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180124.png"><img src="180124.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.</td>
+</tr>
+<tr class="odd">
+<td>ᎹᎦ, ᎡᎵᏍᏓᎦ, ᏗᎹ, ᎷᎦ, ᎢᏧᎳᎭ ᏦᎩᎸᏫᏍᏓᏁᎯ</td>
+</tr>
+<tr class="even">
+<td>Ma-ga, E-li-s-da-ga, Di-ma, Lu-ga, i-tsu-la-ha tso-gi-lv-wi-s-da-ne-hi</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr class="odd">
+<td><a href="180125.png"><img src="180125.png" width="400" /></a></td>
+</tr>
+<tr class="even">
+<td>The grace of our Lord Jesus Christ be with your spirit. Amen.</td>
+</tr>
+<tr class="odd">
+<td>ᎬᏩᎦᏘᏯ ᎤᏓᏙᎵᏍᏗ ᎨᏒ ᎢᎦᏤᎵ ᎤᎬᏫᏳᎯ ᏥᏌ ᎦᎶᏁᏏ ᏔᎵ ᎤᏛᏕᎨᏍᏗ ᏕᏣᏓᏅᏛᎢ. ᎡᎺᏅ</td>
+</tr>
+<tr class="even">
+<td>Gv-wa-ga-ti-ya u-da-do-li-s-di ge-sv i-ga-tse-li U-gv-wi-yu-hi Tsi-sa Ga-lo-ne-si ta-li u-dv-de-ge-s-di de-tsa-da-nv-dv-i. E-me-nv</td>
+</tr>
+</tbody>
+</table>
+
+![](18_.png)
