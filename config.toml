@@ -2,7 +2,7 @@ base_url = "https://cherokeenewtestament.org"
 compile_sass = true
 highlight_code = true
 build_search_index = true
-
+title = "cherokeenewtestament.org"
 #slugify_enabled = true
 
 taxonomies = [

@@ -1,0 +1,270 @@
+/* freemono */
+@font-face {
+	font-family: freemono;
+	src: url("CherokeeFonts/freemono.woff") format("woff"), url("CherokeeFonts/freemono.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: freemono;
+	src: url("CherokeeFonts/freemonobold.woff") format("woff"), url("CherokeeFonts/freemonobold.ttf")
+		format("truetype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: freemono;
+	src: url("CherokeeFonts/freemonoboldoblique.woff") format("woff"),
+		url("CherokeeFonts/freemonoboldoblique.ttf") format("truetype");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: freemono;
+	src: url("CherokeeFonts/freemonooblique.woff") format("woff"), url("CherokeeFonts/freemonooblique.ttf")
+		format("truetype");
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* freesans */
+@font-face {
+	font-family: freesans;
+	src: url("CherokeeFonts/freesans.woff") format("woff"), url("CherokeeFonts/freesans.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: freesans;
+	src: url("CherokeeFonts/freesansbold.woff") format("woff"), url("CherokeeFonts/freesansbold.ttf")
+		format("truetype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: freesans;
+	src: url("CherokeeFonts/freesansboldoblique.woff") format("woff"),
+		url("CherokeeFonts/freesansboldoblique.ttf") format("truetype");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: freesans;
+	src: url("CherokeeFonts/freesansoblique.woff") format("woff"), url("CherokeeFonts/freesansoblique.ttf")
+		format("truetype");
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* freeserif */
+@font-face {
+	font-family: freeserif;
+	src: url("CherokeeFonts/freeserif.woff") format("woff"), url("CherokeeFonts/freeserif.ttf")
+		format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: freeserif;
+	src: url("CherokeeFonts/freeserifbold.woff") format("woff"), url("CherokeeFonts/freeserifbold.ttf")
+		format("truetype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: freeserif;
+	src: url("CherokeeFonts/freeserifbolditalic.woff") format("woff"),
+		url("CherokeeFonts/freeserifbolditalic.ttf") format("truetype");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: freeserif;
+	src: url("CherokeeFonts/freeserifitalic.woff") format("woff"), url("CherokeeFonts/freeserifitalic.ttf")
+		format("truetype");
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* override serif */
+@font-face {
+	font-family: serif;
+	src: url("CherokeeFonts/freeserif.woff") format("woff"), url("CherokeeFonts/freeserif.ttf")
+		format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: serif;
+	src: url("CherokeeFonts/freeserifbold.woff") format("woff"), url("CherokeeFonts/freeserifbold.ttf")
+		format("truetype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: serif;
+	src: url("CherokeeFonts/freeserifbolditalic.woff") format("woff"),
+		url("CherokeeFonts/freeserifbolditalic.ttf") format("truetype");
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: serif;
+	src: url("CherokeeFonts/freeserifitalic.woff") format("woff"), url("CherokeeFonts/freeserifitalic.ttf")
+		format("truetype");
+	font-weight: normal;
+	font-style: italic;
+}
+
+/* override Verdana, Arial, sans-serif */
+@font-face {
+	font-family: Verdana;
+	src: url("CherokeeFonts/freesans.woff") format("woff"), url("CherokeeFonts/freesans.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: Verdana;
+	src: url("CherokeeFonts/freesansbold.woff") format("woff"), url("CherokeeFonts/freesansbold.ttf")
+		format("truetype");
+	font-weight: bold;
+	font-style: normal;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: Verdana;
+	src: url("CherokeeFonts/freesansboldoblique.woff") format("woff"),
+		url("CherokeeFonts/freesansboldoblique.ttf") format("truetype");
+	font-weight: bold;
+	font-style: italic;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: Verdana;
+	src: url("CherokeeFonts/freesansoblique.woff") format("woff"), url("CherokeeFonts/freesansoblique.ttf")
+		format("truetype");
+	font-weight: normal;
+	font-style: italic;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: Arial;
+	src: url("CherokeeFonts/freesans.woff") format("woff"), url("CherokeeFonts/freesans.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: Arial;
+	src: url("CherokeeFonts/freesansbold.woff") format("woff"), url("CherokeeFonts/freesansbold.ttf")
+		format("truetype");
+	font-weight: bold;
+	font-style: normal;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: Arial;
+	src: url("CherokeeFonts/freesansboldoblique.woff") format("woff"),
+		url("CherokeeFonts/freesansboldoblique.ttf") format("truetype");
+	font-weight: bold;
+	font-style: italic;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: Arial;
+	src: url("CherokeeFonts/freesansoblique.woff") format("woff"), url("CherokeeFonts/freesansoblique.ttf")
+		format("truetype");
+	font-weight: normal;
+	font-style: italic;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: sans-serif;
+	src: url("CherokeeFonts/freesans.woff") format("woff"), url("CherokeeFonts/freesans.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: sans-serif;
+	src: url("CherokeeFonts/freesansbold.woff") format("woff"), url("CherokeeFonts/freesansbold.ttf")
+		format("truetype");
+	font-weight: bold;
+	font-style: normal;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: sans-serif;
+	src: url("CherokeeFonts/freesansboldoblique.woff") format("woff"),
+		url("CherokeeFonts/freesansboldoblique.ttf") format("truetype");
+	font-weight: bold;
+	font-style: italic;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: sans-serif;
+	src: url("CherokeeFonts/freesansoblique.woff") format("woff"), url("CherokeeFonts/freesansoblique.ttf")
+		format("truetype");
+	font-weight: normal;
+	font-style: italic;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url("CherokeeFonts/freesans.woff") format("woff"), url("CherokeeFonts/freesans.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url("CherokeeFonts/freesansbold.woff") format("woff"), url("CherokeeFonts/freesansbold.ttf")
+		format("truetype");
+	font-weight: bold;
+	font-style: normal;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url("CherokeeFonts/freesansboldoblique.woff") format("woff"),
+		url("CherokeeFonts/freesansboldoblique.ttf") format("truetype");
+	font-weight: bold;
+	font-style: italic;
+	unicode-range: U+13A0-13ff;
+}
+
+@font-face {
+	font-family: "Open Sans";
+	src: url("CherokeeFonts/freesansoblique.woff") format("woff"), url("CherokeeFonts/freesansoblique.ttf")
+		format("truetype");
+	font-weight: normal;
+	font-style: italic;
+	unicode-range: U+13A0-13ff;
+}
