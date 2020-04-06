@@ -27,9 +27,9 @@ At one time there was a project to create an audio version of the Cherokee New T
   
 In November 2014, Michael Conrad has created a PDF e-book of the Cherokee New Testament. As the book is stabilizing into a static document, I am now putting a $5 reward out for each verse with misread/mistyped syllables.  
 
-You can download a PDF of the Cherokee New Testament from [CherokeeLessons.com](https://www.cherokeelessons.com/pdfs/cnt-6x9.pdf).
+You can download a PDF of the Cherokee New Testament from [CherokeeLessons.com:cnt-6x9.pdf](https://www.cherokeelessons.com/pdf-downloads/cnt-6x9.pdf).
 
-A dual language Cherokee-English version can also be downloaded as a PDF from [CherokeeLessons.com](https://www.cherokeelessons.com/books/%EA%AD%B2%EA%AE%B4-%EA%AD%B7%EA%AE%93%EA%AD%BE%EA%AE%AB-%EA%AE%A3%EA%AE%B0%EA%AD%BF%EA%AE%9D%EA%AE%AB/).
+A dual language Cherokee-English version can also be downloaded as a PDF from [CherokeeLessons.com:cnt-diglot.pdf](https://www.cherokeelessons.com/pdf-downloads/cnt-diglot.pdf).
 
   
 * [Matthew](@/cherokee-new-testament/matthew/index.md)
