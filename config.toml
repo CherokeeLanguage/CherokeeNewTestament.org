@@ -22,7 +22,7 @@ anchors = "on"
 
 zulma_title = "Cherokee New Testament"
 zulma_brand = {text="Cherokee New Testament"}
-zulma_theme = "superhero"
+zulma_theme = "pulse"
 zulma_allow_theme_selection = true
 
 #zulma_menu = [   {url = "/cherokee-new-testament/", name ="CNT TOC"}]

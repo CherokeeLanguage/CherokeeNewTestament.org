@@ -16,5 +16,5 @@ FROM="./public/"
 
 cp content/.htaccess "$FROM/"
 
-DEST="clcom@cherokeelessons.com:./cnt/public_html/"
+DEST="clcom@vhost.cherokeelessons.com:./cnt/public_html/"
 rsync --progress -a --delete-after -z --verbose --human-readable "$FROM" "$DEST"
