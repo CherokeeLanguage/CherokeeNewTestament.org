@@ -1,8 +1,10 @@
 title: Add .opencode/ ignore pattern to .gitignore
-status: open
+status: closed
 labels:
 - needs-approval
 body: ''
 created_at: '2026-10-24T03:29:45+00:00'
-updated_at: '2026-10-24T03:29:46+00:00'
+updated_at: '2026-10-24T03:52:53+00:00'
 github_url: https://github.com/CherokeeLanguage/CherokeeNewTestament.org/issues/12
+closed_at: '2026-10-24T03:52:53+00:00'
+close_reason: completed
