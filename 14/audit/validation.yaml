@@ -1,0 +1,22 @@
+spec:
+  - round: 1
+    date: 2026-11-04
+    verdict: FAIL
+    reviewer: fresh-context dispatch (session ses_e5738bcb4ffeXmdR8E2pg2Lcc3)
+    findings:
+      - class: incapable instrument
+        location: SC-4
+        ground: parity instrument observed only file counts, feed URLs, and chapter-page HTML; 4 of 331 files differ beyond the recorded difference classes (404.html, both authors/*/page/1 redirect pages, cherokee-new-testament/index.html), so the criterion's parity claim was unverified for them
+        classification: finding
+        remediation: parity redefined by a verified-complete delta inventory — full-tree diff with normalization against the build carrying all R-2 accommodations; SC-4 now asserts content-page parity plus an exact-match delta set
+      - class: fabricated claims
+        location: SC-4 / Evidence appendix / Out of scope
+        ground: the spec recorded the observed difference class as exactly {slash-escaping, whitespace} and asserted "no change to site rendering" — a negation whose exhaustiveness was never verified; three further delta classes existed (404 page body, pagination-redirect mechanism, rel="external" attributes)
+        classification: finding
+        remediation: complete 19-file delta inventory produced first-hand (full-tree diff, every file classified), recorded as its own section with dispositions; Out of scope line rewritten to bind rendering deltas to exactly that inventory
+      - class: gap analysis
+        location: R-4 / R-6 / SC-3 / SC-6
+        ground: the dev-server path (zola serve, documented in AGENTS.md) invokes the unpinned system Zola and fails on the same config parse, yet sat outside every requirement and criterion
+        classification: finding
+        remediation: R-4 gains a serve mode on the build entry; R-6/SC-3/SC-6 extended to cover serve guidance and serve-path invocations
+    loop_state: revised in place; round 2 dispatched
