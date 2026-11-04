@@ -51,3 +51,19 @@ spec:
         classification: finding
         remediation: both observed instantiations recorded at class level with the vary-between-runs caveat
     loop_state: revised in place; round 3 dispatched
+  - round: 3
+    date: 2026-11-04
+    verdict: FAIL
+    reviewer: fresh-context dispatch (session ses_e5725658affeojxszzRWeki4Tm)
+    findings:
+      - class: internal contradiction
+        location: delta-inventory procedure result vs residual table (fonts.css)
+        ground: the spec's own normalization procedure erases fonts.css's sole delta (trailing-newline drop), placing it in the whitespace class, while the residual table still carried a fonts.css row (19 rows vs the stated and executed 18)
+        classification: finding
+        remediation: fonts.css row removed; whitespace-class description names it; residual count 18 stands (9 CSS bundles, not 10)
+      - class: fabricated claims
+        location: residual table 404.html row
+        ground: baseline 404.html is Zola 0.10.1's built-in unstyled 404 page (byte-identical to v0.10.1 builtins/404.html), not a styled Zulma page — Zulma ships no 404 template; the row's disposition rationale rested on the false attribution
+        classification: finding
+        remediation: row rewritten with the accurate attribution and a factual disposition
+    loop_state: revised in place; round 4 dispatched
