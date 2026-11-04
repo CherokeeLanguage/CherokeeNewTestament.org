@@ -20,3 +20,34 @@ spec:
         classification: finding
         remediation: R-4 gains a serve mode on the build entry; R-6/SC-3/SC-6 extended to cover serve guidance and serve-path invocations
     loop_state: revised in place; round 2 dispatched
+  - round: 2
+    date: 2026-11-04
+    verdict: FAIL
+    reviewer: fresh-context dispatch (session ses_e572db5a0ffeXmdR8E2pg2Lcc3)
+    findings:
+      - class: gap analysis
+        location: delta inventory / SC-4(ii)
+        ground: 38 whitespace-only-differing HTML pages (home, author index/pagination pages) were covered by neither the trivial-class row (scoped to book/chapter pages) nor any enumerated row, so a correct build would fail the exact-match contract
+        classification: finding
+        remediation: trivial class redefined to cover ALL HTML pages and sitemap.xml by the normalization procedure; parity contract restated class-based, not file-list-based
+      - class: internal contradiction
+        location: inventory header vs table
+        ground: header said 19 differing files while the table listed 20; the count depended on an unstated EOF-newline convention
+        classification: finding
+        remediation: counts replaced by the exact normalization procedure's outputs (346 raw -> 328 whitespace-class + 18 residual); no hand-maintained counts remain
+      - class: fabricated claims
+        location: inventory CSS row
+        ground: bundles differ beyond BOM/newline (numeric leading-zero stripping, ~178+/file — verified by execution); fonts.css has no BOM/@import in either build; @import relocation applies only to 7 of 9 bundles
+        classification: finding
+        remediation: CSS row rewritten from per-file executed checks (BOM head-bytes, @import counts, leading-zero like-for-like counts, last-byte trailing-newline check)
+      - class: fabricated claims
+        location: inventory feed row
+        ground: <author>Unknown</author> is per-item (288/288, 1/1), not channel-level; every item description gains xml:base; channel description empty in both builds; "288 items per feed" false for michael-conrad (1)
+        classification: finding
+        remediation: feed row rewritten from full per-feed diffs with per-feed item counts
+      - class: fabricated claims
+        location: R-1 / Evidence appendix (0.23.6 row)
+        ground: recorded instantiation (taxonomy_macros.html:1:4 on {% macro %}) contradicted by reviewer's execution (taxonomy_single.html:3:4 on {% import %})
+        classification: finding
+        remediation: both observed instantiations recorded at class level with the vary-between-runs caveat
+    loop_state: revised in place; round 3 dispatched
