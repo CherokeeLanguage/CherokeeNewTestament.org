@@ -1,14 +1,14 @@
 base_url = "https://cherokeenewtestament.org"
 compile_sass = true
-highlight_code = true
 build_search_index = true
+feed_filenames = ["rss.xml"]
 title = "cherokeenewtestament.org"
 #slugify_enabled = true
 
 taxonomies = [
-    {name = "categories", paginate_by = 8, rss = true},
-    {name = "tags", paginate_by = 8, rss = true},
-    {name = "authors", paginate_by = 8, rss = true}
+    {name = "categories", paginate_by = 8, feed = true},
+    {name = "tags", paginate_by = 8, feed = true},
+    {name = "authors", paginate_by = 8, feed = true}
 ]
 
 theme = "Zulma"
