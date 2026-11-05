@@ -10,7 +10,7 @@ if [ "$(hostname)" != "Precision-Workstation" ]; then echo "WRONG MACHINE"; exit
 cd "$(dirname "$0")"
 
 rm -rf public
-zola build
+./build.sh
 
 FROM="./public/"
 

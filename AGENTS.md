@@ -18,13 +18,17 @@ rows for English / Cherokee syllabary / phonetic lines — with page scans
 
 ## Build
 
-- Build: `zola build` → `public/` (gitignored). Dev server: `zola serve`.
-- **`zola build` fails with the installed Zola 0.23.6** (verified 2026-11-04):
-  `config.toml` line 3 `highlight_code = true` is rejected as an unknown
-  field. The site targets a 2020-era Zola and no version is pinned anywhere;
-  current Zola moved highlighting config under `[markdown]`
-  (`[markdown.highlighting]`, and pre-0.22 CSS-class-only output is gone).
-  Migrating `config.toml` is a deliberate change, not a drive-by fix.
+- The build toolchain is **pinned**: `ZOLA_VERSION` records the exact Zola
+  release (currently `0.22.1`) and `ZOLA_VERSION.sha256` the release
+  artifact's checksum.
+- **Build with `./build.sh`** — the repo's single build entry. It fetches the
+  pinned musl-static Zola from the official release (verifying the checksum)
+  into the ignored `.tools/zola/` on first use, then builds to `public/`
+  (gitignored). **Dev server: `./build.sh serve`.**
+- Never build or serve with an unpinned/system `zola` — the system binary
+  rejects this site's config (and older/newer versions silently change
+  behavior). `.tools/` is gitignored; the pin lives in the two tracked
+  version files.
 - No CI build or test exists. The only GitHub workflow is CodeQL, which
   self-warns it found no supported languages — don't expect CI validation.
 
