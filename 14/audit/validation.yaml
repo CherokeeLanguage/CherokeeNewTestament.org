@@ -80,3 +80,16 @@ plan:
     reviewer: fresh-context dispatch (session ses_e565c83f3ffe03fz8Az7BUr2Ou)
     findings: []
     loop_state: terminal — zero-finding verdict; plan proceeds to implementation under the developer's terminal-stage authorization
+implementation:
+  - round: 1
+    date: 2026-11-04
+    verdict: PASS-with-finding (not a clean verdict per the contract)
+    reviewer: fresh-context dispatch (session ses_e5651b63cffeUF57URzrMXa7QO)
+    sc_verdicts: {SC-1: PASS, SC-2: PASS, SC-3: PASS, SC-4: PASS, SC-5: PASS, SC-6: PASS}
+    findings:
+      - class: fabricated claims (inventory-description imprecision)
+        location: spec delta-inventory page/1 row
+        ground: the pinned redirect page RETAINS the meta refresh and ADDS the JS location.replace mechanism (and drops the canonical link) — the row's "becomes a JS redirect" implied replacement; the mechanism class and destination held, so SC-4 itself was not failed
+        classification: finding
+        remediation: spec row amended to state retention + addition + canonical-link drop; fresh re-review dispatched
+    loop_state: remediated in place; round 2 dispatched
