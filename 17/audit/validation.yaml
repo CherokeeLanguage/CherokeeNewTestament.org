@@ -81,3 +81,16 @@ implementation_midcycle_amendments:
       - "SC-10's instrument retargeted: preview-mode zero-greps apply to the URL surface (sitemap.xml + href attributes) — the instrument run found the built-in per-taxonomy feed metadata bakes production apex URLs under --base-url / (zola 0.22 limitation, observed), post-processing declined as the rejected old-kludge path; the limitation documented in README per the amended criterion. Executed evidence: items 10's build (sitemap 0 apex; titus page hrefs relative; feed entries/channel absolute apex)."
       - "AGENTS.md's rewritten deploy section dropped the retired path's tool names (deploy.sh, Precision-Workstation) per SC-5's zero requirements."
     artifacts_revised: .issues/17/spec.md (SC-7, SC-10 instruments), .issues/17/plan.md (item 10)
+  implementation:
+  - round: 1
+    date: 2026-11-14
+    reviewer: fresh-context general subagent (ses_e252d5b63ffeUzRImRDy8pY6G2, GLM-5.3-Flash)
+    verdict: PASS
+    findings: []
+    executed_evidence_verified: "All 14 SCs re-executed digit-for-digit (SC-7's sha256 re-fetched fresh and matched; re-gate both directions reproduced; SC-14 dry-run exit 0, 9,473 files, no bindings; diff extent exactly the Scope table's 9 paths — no unplanned deliverables)."
+    loop_state: clean PASS — exits to PR prep
+    amendment_3_2026-11-14:
+      source: developer directive ("put back of required settings. stop with the fucking cargo culting.", after the live deploy)
+      change: "wrangler.jsonc carries the required settings and only them — the sample's five keys (directory ./public/, html_handling auto-trailing-slash explicit), no previews key (the sibling-era 4.153.0 quirk does not reproduce at the pinned 4.162.0: the no-previews manifest validated dry-run exit 0 and deployed live, version 6ebd0675)."
+      artifacts_revised: ".issues/17/spec.md (R-1, SC-1, Scope row, Approach, Impact), .issues/17/plan.md (item 1)"
+      executed_evidence: "dry-run exit 0 / deploy exit 0 at https://cherokeenewtestament-org.muksihs.workers.dev — both under the no-previews manifest"

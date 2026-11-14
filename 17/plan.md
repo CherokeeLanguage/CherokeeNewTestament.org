@@ -4,10 +4,10 @@ Source: CherokeeNewTestament.org#17 spec (validated clean PASS, round 2, 2026-11
 
 ## Items
 
-- **Item 1 — `wrangler.jsonc` (R-1 → SC-1).** New tracked manifest: `name "cherokeenewtestament-org"`, `compatibility_date "2026-11-14"`, `assets { directory "./public", not_found_handling "404-page" }`, `previews {}`. No `"main"`, no bindings.
+- **Item 1 — `wrangler.jsonc` (R-1 → SC-1).** New tracked manifest — required settings only (amended in-cycle per the developer's manifest-of-record): `name "cherokeenewtestament-org"`, `compatibility_date "2026-11-14"`, `assets { directory "./public/", not_found_handling "404-page", html_handling "auto-trailing-slash" }`. No `"main"`, no bindings, **no `previews` key** — the sibling-era quirk judged against the pinned wrangler 4.162.0's own executed behavior and dropped.
   - RED: `git ls-files wrangler.jsonc` empty; content-absence greps fail.
   - GREEN: add the manifest.
-  - Instrument: SC-1's eight greps. `previews: {}` re-verification (R-1's duty): executed `npx wrangler@4.162.0 deploy --dry-run` on the completed tree (item 14) — the 4.153.0 preview-build error path is not reproducible locally (it fires inside Workers Builds preview runs); the block is retained on the sibling's observed evidence with that disposition recorded here.
+  - Instrument: SC-1's greps (the finalized set: five keys present, `previews` = 0). The re-verification duty (formerly the previews retention): DISCHARGED by executed evidence — the no-previews manifest passed `deploy --dry-run` (exit 0, no bindings) and deployed live (version 6ebd0675, 2026-11-14).
 - **Item 2 — `build.sh` branch-aware layer (R-2 → SC-2).** Gains the base-url logic in POSIX-sh form (no bash array `BASE_URL_ARGS` — this script is `#!/bin/sh`, unlike the sibling's bash script): branch from `WORKERS_CI_BRANCH`, git fallback resolving production-safe on detached HEAD; `master` → `--base-url "https://cherokeenewtestament.org/"`; other branches → `--base-url /`; `SITE_BASE_URL` wins in both; then `"$zola_bin" build` with the resolved `--base-url`. Pin-download-and-verify core unchanged.
   - RED: `grep -c WORKERS_CI_BRANCH build.sh` = 0.
   - GREEN: insert the resolution block before the build invocation.
