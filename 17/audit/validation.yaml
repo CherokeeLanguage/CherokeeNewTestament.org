@@ -1,0 +1,28 @@
+# Validation record — CherokeeNewTestament.org#17
+artifact: spec
+
+spec:
+  - round: 1
+    date: 2026-11-14
+    reviewer: fresh-context general subagent (ses_e276b9dbaffew0Qnp2uZxU3lzg, GLM-5.3-Flash)
+    verdict: FAIL
+    findings:
+      - class: fabricated-claims (current-state DNS posture)
+        classification: finding
+        detail: "Problem/provenance/Impact described the 2026-11-13 probe state (apex+www at CF edge, HTTPS timeout); the reviewer's 2026-11-14 dual-resolver re-probe shows the records removed — apex NOERROR/NODATA (authoritative CF SOA), www NXDOMAIN. No records exist to light up or replace; the custom-domain attachments create them."
+        remediation: "Posture restated with both dated probe states; Impact's mechanism reworded (attachments create the records)."
+      - class: fabricated-claims (attribution in R-7)
+        classification: finding
+        detail: "R-7 attributed fonts.gstatic.com to built-stylesheet imports; grep shows 0 built files carry gstatic — gstatic is the runtime Google CSS's @font-face source origin."
+        remediation: "Attribution restated (googleapis = the import carried by 7 built stylesheets; gstatic = the binaries' origin in the runtime CSS; both in the CSP); SC-4 wording aligned."
+      - class: feasibility / incapable-instrument (SC-3/10/11/12/13 grep targets)
+        classification: finding
+        detail: "Instruments targeted a root public/rss.xml the pinned-0.22.1 build never emits — only per-taxonomy feeds (authors/*/rss.xml) plus sitemap.xml exist; the criteria set was jointly unsatisfiable as written."
+        remediation: "Feed greps retargeted to build-emitted artifacts: public/sitemap.xml + public/authors/timothy-legg/rss.xml (verified to carry apex URLs)."
+      - class: cross-reference-sufficiency (stale placeholder)
+        classification: finding
+        detail: "Line 3 'Remote issue: …/issues/N' placeholder survived filing; the store's issue.yaml carried the real number 17."
+        remediation: "Citation corrected to …/issues/17."
+    proactive_checks:
+      repo-boundary-containment: pass (scope and home both contained)
+    record_note: "Every other claim verified true against live evidence (census, embeds, theme floor, manifests, platform facts, gate logs)."
