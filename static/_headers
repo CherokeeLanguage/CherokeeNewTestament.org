@@ -1,0 +1,14 @@
+# Security headers for the whole site. CSP origins are the audited set
+# (spec #17 R-7, from the site's real embeds): 'self', the utteranc.es
+# comment widget (loaded unconditionally on all 288 article pages — script
+# + frame; the widget's own GitHub traffic runs inside its cross-origin
+# iframe, so no connect-src), and the Zulma theme's Google-Fonts load path
+# (7 built variant stylesheets import fonts.googleapis.com; the runtime
+# Google CSS sources the binaries from fonts.gstatic.com). 'unsafe-inline'
+# in script-src carries the two author-pagination inline redirect stubs;
+# in style-src it carries the 288 article pages' inline style attributes.
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://utteranc.es; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; frame-src https://utteranc.es; frame-ancestors 'none'; base-uri 'self'; form-action 'self'

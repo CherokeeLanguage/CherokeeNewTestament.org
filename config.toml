@@ -1,4 +1,4 @@
-base_url = "https://cherokeenewtestament.org"
+base_url = "https://cherokeenewtestament.org/"
 compile_sass = true
 build_search_index = true
 feed_filenames = ["rss.xml"]
