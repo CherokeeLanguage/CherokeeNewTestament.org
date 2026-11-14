@@ -2,8 +2,8 @@
   "name": "cherokeenewtestament-org",
   "compatibility_date": "2026-11-14",
   "assets": {
-    "directory": "./public",
-    "not_found_handling": "404-page"
-  },
-  "previews": {}
+    "directory": "./public/",
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash"
+  }
 }
