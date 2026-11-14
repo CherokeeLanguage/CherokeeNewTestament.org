@@ -36,3 +36,39 @@ spec:
     proactive_checks:
       repo-boundary-containment: pass (scope and home both contained)
     loop_state: clean PASS — exits to the developer approval gate
+  - round: 3
+    date: 2026-11-14
+    reviewer: fresh-context general subagent (ses_e2536034bffe97v3TxDpXHLk41, GLM-5.3-Flash)
+    verdict: PASS
+    findings: []
+    round3_revision_verified: "uttanc.es embed grounded (templates/page.html:29 unconditional; 288 = 260+27+1 rendered pages; the 289th hit is the KJV word 'utterance' in scripture text, not an embed); SC-4/R-7/provenance consistent; fresh full-tree origin sweep: no third-party origin beyond utteranc.es + the font classes."
+    proactive_checks:
+      repo-boundary-containment: pass
+    loop_state: clean PASS
+
+plan:
+  - round: 1
+    date: 2026-11-14
+    reviewer: fresh-context general subagent (ses_e253b25e8ffeYAMuUTNZvs6LfT, GLM-5.3-Flash)
+    verdict: FAIL
+    findings:
+      - class: factual-error + incomplete-derivation (item 4 CSP)
+        classification: finding
+        detail: "The gate build's 288 pages embed utteranc.es unconditionally (templates/page.html:29) — missed by the spec's original giscus|hyvor|... grep; a minimal CSP would silently break the widget on all article pages while SC-4's zero-grep list would pass."
+        remediation: "Spec R-7/audit/SC-4 corrected before the items consume them; item 4 carries utteranc.es script+frame origins (preserved behavior)."
+      - class: internal-inconsistency + incomplete-derivation (item 9 mode ambiguity)
+        classification: finding
+        detail: "SC-9's ./build.sh on a fresh feature-branch clone resolves domain-neutral (git fallback → branch name), so SC-3's ≥1 apex greps would fail spuriously; the direct-binary gate build has no exit-0 SC-9 execution."
+        remediation: "Item 9 pins the production-resolving run (WORKERS_CI_BRANCH=master ./build.sh) as SC-9's instrument, with SC-3's greps on its output."
+      - class: internal-inconsistency (item 5 cross-reference)
+        classification: finding
+        detail: "Item 5's parenthetical routed the verdict-sentence completion to item 6 (the wrangler pin) instead of item 7 (the Zola-pin verdict text)."
+        remediation: "Routed to item 7."
+    record_note: "All RED-row REs verified can-fail; gate logs verified present and matching."
+  - round: 2
+    date: 2026-11-14
+    reviewer: fresh-context general subagent (ses_e2536034bffdcMAjdWWTz7whJi, GLM-5.3-Flash)
+    verdict: PASS
+    findings: []
+    round1_remediations_verified: "All three genuine against the revised spec; coverage 1-14 complete both directions; RED premises can-fail; sh-vs-bash adaptation grounded; instruments real."
+    loop_state: clean PASS — exits to implement
