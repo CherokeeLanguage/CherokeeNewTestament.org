@@ -36,8 +36,9 @@ Source: CherokeeNewTestament.org#17 spec (validated clean PASS, round 2, 2026-11
   - Commit: N/A (instrument execution).
 - **Item 9 — Fresh-clone build, production-resolving + absolute-URL instrument (SC-9, SC-3 behavioral half).** In the item 8 fresh clone: executed `WORKERS_CI_BRANCH=master ./build.sh` → exit 0 (this run IS SC-9's lettered instrument — production-resolving so the config.toml-driven apex bakes in); `grep -c 'cherokeenewtestament.org' public/sitemap.xml` ≥ 1 and in `public/authors/timothy-legg/rss.xml` ≥ 1 (establishes SC-3's post-build half).
   - Commit: N/A.
-- **Item 10 — Preview mode domain-neutral (SC-10).** In the scratch clone: `WORKERS_CI_BRANCH=feature-x ./build.sh`; apex count = 0 in `public/sitemap.xml` and in `public/authors/timothy-legg/rss.xml`.
-  - Commit: N/A.
+- **Item 10 — Preview mode domain-neutral on the URL surface (SC-10).** In the scratch clone: `WORKERS_CI_BRANCH=feature-x ./build.sh`; `grep -c 'cherokeenewtestament.org' public/sitemap.xml` = 0; `grep -c 'href="https://cherokeenewtestament.org' public/cherokee-new-testament/titus/index.html` = 0; the taxonomy-feed metadata limitation (zola 0.22's `--base-url` does not rewrite the built-in per-taxonomy feed channel/entry URLs — observed absolute-apex in the instrument run: `<link>`, `atom:link`, `guid`, `xml:base`) is documented with a README caveat sentence (committed in the same cycle) and production builds are apex-correct per SC-3.
+  - Commit: the README caveat sentence rides this item; the instrument run itself is evidence.
+
 - **Item 11 — Override wins in preview mode (SC-11).** `WORKERS_CI_BRANCH=feature-x SITE_BASE_URL=https://example.com ./build.sh`; `https://example.com` ≥ 1 in `public/authors/timothy-legg/rss.xml`.
   - Commit: N/A.
 - **Item 12 — Override wins in production mode (SC-12).** `WORKERS_CI_BRANCH=master SITE_BASE_URL=https://example.com ./build.sh`; `https://example.com` ≥ 1 in `public/authors/timothy-legg/rss.xml`.

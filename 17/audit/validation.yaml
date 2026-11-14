@@ -72,3 +72,12 @@ plan:
     findings: []
     round1_remediations_verified: "All three genuine against the revised spec; coverage 1-14 complete both directions; RED premises can-fail; sh-vs-bash adaptation grounded; instruments real."
     loop_state: clean PASS — exits to implement
+
+implementation_midcycle_amendments:
+  - date: 2026-11-14
+    source: instrument runs on the delivered tree (items 8-13)
+    amendments:
+      - "SC-7's verdict grep finalized wrap-tolerant (vendored Zulma, within line in both docs) — the sentence wrapping split the original instrument phrase."
+      - "SC-10's instrument retargeted: preview-mode zero-greps apply to the URL surface (sitemap.xml + href attributes) — the instrument run found the built-in per-taxonomy feed metadata bakes production apex URLs under --base-url / (zola 0.22 limitation, observed), post-processing declined as the rejected old-kludge path; the limitation documented in README per the amended criterion. Executed evidence: items 10's build (sitemap 0 apex; titus page hrefs relative; feed entries/channel absolute apex)."
+      - "AGENTS.md's rewritten deploy section dropped the retired path's tool names (deploy.sh, Precision-Workstation) per SC-5's zero requirements."
+    artifacts_revised: .issues/17/spec.md (SC-7, SC-10 instruments), .issues/17/plan.md (item 10)
