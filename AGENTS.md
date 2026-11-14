@@ -19,8 +19,13 @@ rows for English / Cherokee syllabary / phonetic lines — with page scans
 ## Build
 
 - The build toolchain is **pinned**: `ZOLA_VERSION` records the exact Zola
-  release (currently `0.22.1`) and `ZOLA_VERSION.sha256` the release
-  artifact's checksum.
+  release (currently `0.22.1` — the latest release compatible with the
+  vendored Zulma theme) and `ZOLA_VERSION.sha256` the release artifact's
+  checksum. Any pin change re-executes the compatibility gate before it
+  lands: the 0.23.x line ships the Tera 2 template major, and its binary
+  fails this tree with `ERROR error: Unknown tag` at
+  `Zulma/templates/taxonomy_single.html:3`; the pinned 0.22.1 builds the
+  full unit (9,140 files) cleanly.
 - **Build with `./build.sh`** — the repo's single build entry. It fetches the
   pinned musl-static Zola from the official release (verifying the checksum)
   into the ignored `.tools/zola/` on first use, then builds to `public/`
@@ -32,12 +37,20 @@ rows for English / Cherokee syllabary / phonetic lines — with page scans
 - No CI build or test exists. The only GitHub workflow is CodeQL, which
   self-warns it found no supported languages — don't expect CI validation.
 
-## Deploy — manual and machine-gated
+## Deploy — Cloudflare Workers Static Assets
 
-- `./deploy.sh` rebuilds and rsyncs `public/` to production, but exits on any
-  host other than `Precision-Workstation`. Do not run it elsewhere.
-- It manually copies `content/.htaccess` (a zero-byte file) into the build
-  output before rsync.
+- **Push-to-deploy through Workers Builds**: a merge to `master` (this repo's
+  branch of record; the builds default is `main` — set it explicitly) runs
+  `./build.sh` and `npx wrangler deploy` automatically; PR branches get
+  preview builds (`npx wrangler preview`). There is no deploy script.
+- The deploy unit is the assets-only `wrangler.jsonc` (`./public`, 404-page
+  handling, `previews {}` — no Worker script, no bindings); wrangler is
+  pinned in `package.json`.
+- One-time setup (Cloudflare dashboard): connect the GitHub App; create the
+  Worker with the exact name `cherokeenewtestament-org` (name-match is a
+  builds-fail condition); set the build command `./build.sh`; set the
+  production branch `master`; attach the custom domains
+  `cherokeenewtestament.org` and `www.cherokeenewtestament.org`.
 
 ## Content conventions
 
